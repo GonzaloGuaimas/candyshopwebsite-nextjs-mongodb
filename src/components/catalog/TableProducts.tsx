@@ -6,17 +6,17 @@ import { Dropdown } from 'primereact/dropdown'
 import { Button } from 'primereact/button'
 import { FilterMatchMode } from 'primereact/api'
 
-export const TableProducts = ({ products }) => {
+export const TableProducts = ({ products }: {products: any}) => {
   const [globalFilter, setGlobalFilter] = useState('')
   const [globalFilterDrop, setGlobalFilterDrop] = useState('')
   const categories = [{name: 'ALFAJORES', value:'ALF'}, {name: 'BEBIDAS', value:'BEB'}, {name: 'COMESTIBLES', value:'COM'}, {name: 'CHOCOLATES', value:'CHOC'},
   {name: 'GOLOSINAS', value:'GOL'}, {name: 'GALLETAS', value:'GALL'}, {name: 'SNACK', value:'SNACK'}, {name: 'VARIOS', value:'VAR'}]
-  const [filters, setFilters] = useState()
+  const [filters, setFilters] = useState<any>()
   const clearFilters = () => {
     initFilters()
   }
 
-  const onGlobalFilterChange = (e) => {
+  const onGlobalFilterChange = (e: any) => {
       const value = e.target.value
       let _filters = { ...filters }
       _filters['name'].value = value
@@ -24,7 +24,7 @@ export const TableProducts = ({ products }) => {
       setFilters(_filters)
       setGlobalFilter(value)
   }
-  const onDropFilterChange = (e) => {
+  const onDropFilterChange = (e: any) => {
     const value = e.target.value
     let _filters = { ...filters }
     _filters['category'].value = value

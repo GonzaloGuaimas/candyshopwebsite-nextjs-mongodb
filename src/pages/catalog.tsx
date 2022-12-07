@@ -1,5 +1,5 @@
 import React from 'react'
-import Product from '../models/Product'
+// import Product from '../models/Product'
 import dbConnect from '../utils/dbConnect'
 import { useEffect, useState } from 'react'
 import { TableProducts } from '../components/catalog/TableProducts'
@@ -7,10 +7,11 @@ import products from '../utils/products.json'
 import { NavBar } from '../components/NavBar'
 import { FooterBar } from '../components/FooterBar'
 
-export default function Home({ productos }) {
-    const [productsList, setProductsList] = useState([])
+export default function Home({ productos }: { productos: any }) {
+    const [productsList, setProductsList] =  useState<any>([])
     useEffect(()=> {
         setProductsList(products)
+        console.log(productos)
     },[])
 
   return (
@@ -30,7 +31,6 @@ export async function getServerSideProps() {
   //   product._id = product._id.toString()
 	// 	return product
 	// })
-  const products = []
   
-	return { props: { products: products } }
+	return { props: { products: [] } }
   }
