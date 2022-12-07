@@ -70,6 +70,18 @@ body {
   flex-direction: column;
 }
 
+.footer-container{
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+}
+.footer-container div {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  column-gap: 2px;
+}
 
 .main-btn-container{
   text-align: center;

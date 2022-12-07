@@ -5,6 +5,7 @@ import { useEffect, useState } from 'react'
 import { TableProducts } from '../components/catalog/TableProducts'
 import products from '../utils/products.json'
 import { NavBar } from '../components/NavBar'
+import { FooterBar } from '../components/FooterBar'
 
 export default function Home({ productos }) {
     const [productsList, setProductsList] = useState([])
@@ -14,9 +15,9 @@ export default function Home({ productos }) {
 
   return (
     <div className='main-container-catalog'>
-        <NavBar></NavBar>
-        <TableProducts products={productsList} ></TableProducts>
-        <p>Hois</p>
+        <NavBar/>
+        <TableProducts products={productsList} />
+        <FooterBar/>
     </div>
   )
 }
