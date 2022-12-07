@@ -4,6 +4,7 @@ import dbConnect from '../utils/dbConnect'
 import { useEffect, useState } from 'react'
 import { TableProducts } from '../components/catalog/TableProducts'
 import products from '../utils/products.json'
+import { NavBar } from '../components/NavBar'
 
 export default function Home({ productos }) {
     const [productsList, setProductsList] = useState([])
@@ -12,8 +13,10 @@ export default function Home({ productos }) {
     },[])
 
   return (
-    <div>
-         <TableProducts products={productsList} ></TableProducts>
+    <div className='main-container-catalog'>
+        <NavBar></NavBar>
+        <TableProducts products={productsList} ></TableProducts>
+        <p>Hois</p>
     </div>
   )
 }
