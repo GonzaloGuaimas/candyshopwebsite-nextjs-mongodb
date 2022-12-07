@@ -16,7 +16,7 @@ export default function Home({ productos }) {
   return (
     <div className='main-container-catalog'>
         <NavBar/>
-        <TableProducts products={productsList} />
+        <TableProducts products={productsList}/>
         <FooterBar/>
     </div>
   )

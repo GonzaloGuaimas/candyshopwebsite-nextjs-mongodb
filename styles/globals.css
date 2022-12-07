@@ -90,3 +90,10 @@ body {
   color: white;
   font-weight: bold;
 }
+
+/*datatable*/
+.table-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
