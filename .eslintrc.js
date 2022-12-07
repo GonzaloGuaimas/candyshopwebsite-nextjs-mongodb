@@ -9,6 +9,16 @@ module.exports = {
 		'plugin:react/recommended'
 	],
 	'overrides': [
+		{
+			'files': ['*.ts', '*.tsx'],
+			'extends': [
+			'plugin:@typescript-eslint/eslint-recommended',
+			'plugin:@typescript-eslint/recommended',
+			'prettier/@typescript-eslint'
+			],
+			'parser': '@typescript-eslint/parser',
+			'plugins': ['@typescript-eslint']
+		}
 	],
 	'parserOptions': {
 		'ecmaVersion': 'latest',
@@ -22,6 +32,7 @@ module.exports = {
 		'@typescript-eslint'
 	],
 	'rules': {
+		'react/prop-types': 0,
 		'react/jsx-filename-extension': [
 			1,
 			{ extensions: ['.js', '.jsx', '.tsx'] }
