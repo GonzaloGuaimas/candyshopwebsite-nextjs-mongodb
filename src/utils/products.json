@@ -1,0 +1,8722 @@
+[{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92167"
+  },
+  "id": "chupetin grande suelto",
+  "name": "chupetin grande suelto",
+  "list1": 30,
+  "list2": 30,
+  "list3": 30,
+  "cost": 20,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92168"
+  },
+  "id": "Caramelos Masticable Sueltos",
+  "name": "caramelos masticables",
+  "description": "3x10",
+  "list1": 10,
+  "list2": 10,
+  "list3": 10,
+  "cost": 4.91,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92169"
+  },
+  "id": "7798186033471",
+  "name": "Yummy Morita",
+  "description": "x500gr",
+  "list1": 729.8,
+  "list2": 729.8,
+  "list3": 669.3,
+  "cost": 608,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9216a"
+  },
+  "id": "7798186030852",
+  "name": "Yipi",
+  "description": "x12u",
+  "list1": 50,
+  "list2": 34.57,
+  "list3": 32,
+  "cost": 28.81,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9216b"
+  },
+  "id": "7793670000052",
+  "name": "Yerba Verdeflor",
+  "description": "x500gr",
+  "list1": 295,
+  "list2": 295,
+  "list3": 295,
+  "cost": 269.9,
+  "category": "COM",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9216c"
+  },
+  "id": "7790710334535",
+  "name": "Yerba CBSe",
+  "description": "x500gr",
+  "list1": 290,
+  "list2": 290,
+  "list3": 280,
+  "cost": 244.9,
+  "category": "COM",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9216d"
+  },
+  "id": "77904744",
+  "name": "Yapa Pastilla",
+  "description": "x36u",
+  "list1": 50,
+  "list2": 37.74,
+  "list3": 36.29,
+  "cost": 32.99,
+  "category": "GOL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9216e"
+  },
+  "id": "7792389081277",
+  "name": "X-5 Espiral",
+  "description": "x36u x50gr",
+  "list1": 60,
+  "list2": 41.66,
+  "list3": 39.6,
+  "cost": 34.72,
+  "category": "VAR",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9216f"
+  },
+  "id": "6985366000090",
+  "name": "Whathsapp Tik Tok",
+  "description": "x20u",
+  "list1": 850,
+  "list2": 850,
+  "list3": 850,
+  "cost": 730,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92170"
+  },
+  "id": "6975896425067",
+  "name": "Whathsapp Dragon Ball",
+  "description": "x20u",
+  "list1": 850,
+  "list2": 850,
+  "list3": 850,
+  "cost": 730,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92171"
+  },
+  "id": "6945215557625",
+  "name": "Wathsapp BTS",
+  "description": "x20u",
+  "list1": 850,
+  "list2": 850,
+  "list3": 850,
+  "cost": 730,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92172"
+  },
+  "id": "7792360090328",
+  "name": "Vizzio Almendras con Chocolate",
+  "description": "x100gr",
+  "list1": 362,
+  "list2": 362,
+  "list3": 362,
+  "cost": 302,
+  "category": "CHOC",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92173"
+  },
+  "id": "Velas",
+  "name": "Velas Rosa",
+  "description": "x20u",
+  "list1": 80,
+  "list2": 80,
+  "list3": 80,
+  "cost": 50.5,
+  "category": "VAR",
+  "quantity": 31
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92174"
+  },
+  "id": "6968579002198",
+  "name": "Velas Magicas Feliz Cumpleaños",
+  "description": "blister",
+  "list1": 650,
+  "list2": 650,
+  "list3": 650,
+  "cost": 500,
+  "category": "VAR",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92175"
+  },
+  "id": "UT0017",
+  "name": "Velas Cienfuegos",
+  "description": "x12u",
+  "list1": 180,
+  "list2": 180,
+  "list3": 180,
+  "cost": 70,
+  "category": "VAR",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92176"
+  },
+  "id": "Vela A",
+  "name": "Velas Azul",
+  "description": "x20u",
+  "list1": 80,
+  "list2": 80,
+  "list3": 80,
+  "cost": 50.5,
+  "category": "VAR",
+  "quantity": 51
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92177"
+  },
+  "id": "Vela Numero",
+  "name": "Vela Numero",
+  "list1": 80,
+  "list2": 80,
+  "list3": 80,
+  "cost": 0,
+  "category": "VAR",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92178"
+  },
+  "id": "7798149233269",
+  "name": "Vela Copa Argentina",
+  "description": "vela",
+  "list1": 830,
+  "list2": 830,
+  "list3": 830,
+  "cost": 640,
+  "category": "VAR",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92179"
+  },
+  "id": "77903884",
+  "name": "Vainilla Pack X2",
+  "description": "x36u",
+  "list1": 40,
+  "list2": 33.4,
+  "list3": 31.15,
+  "cost": 28.32,
+  "category": "GALL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9217a"
+  },
+  "id": "7795522000869",
+  "name": "Turron de Mani Latin",
+  "description": "x60gr",
+  "list1": 70,
+  "list2": 53.98,
+  "list3": 49.48,
+  "cost": 44.99,
+  "category": "GOL",
+  "quantity": 35
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9217b"
+  },
+  "id": "77940148",
+  "name": "Turron Misky",
+  "description": "Maní 25gr x50u",
+  "list1": 34.37,
+  "list2": 26.44,
+  "list3": 24.24,
+  "cost": 21.15,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9217c"
+  },
+  "id": "7798094223650",
+  "name": "Turron Fulbito",
+  "description": "x50u",
+  "list1": 30,
+  "list2": 22.39,
+  "list3": 20,
+  "cost": 15.08,
+  "category": "GALL",
+  "quantity": 26
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9217d"
+  },
+  "id": "7798074490140",
+  "name": "Turron ATB",
+  "description": "x50u",
+  "list1": 40,
+  "list2": 26,
+  "list3": 24.8,
+  "cost": 21.66,
+  "category": "GALL",
+  "quantity": 38
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9217e"
+  },
+  "id": "7790071080201",
+  "name": "Tostadas de Arroz",
+  "description": "x150gr",
+  "list1": 280,
+  "list2": 216,
+  "list3": 207,
+  "cost": 188.89,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9217f"
+  },
+  "id": "7792360092957",
+  "name": "Tostadas Bonafide Light",
+  "description": "x200gr",
+  "list1": 217.87,
+  "list2": 217.87,
+  "list3": 217.87,
+  "cost": 190.45,
+  "category": "GALL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92180"
+  },
+  "id": "7798094223063",
+  "name": "Torta Smack",
+  "description": "x24u",
+  "list1": 80,
+  "list2": 63.73,
+  "list3": 63.73,
+  "cost": 53.11,
+  "category": "CHOC",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92181"
+  },
+  "id": "7798094223254",
+  "name": "Torta Genio Negro",
+  "description": "x20u x70gr",
+  "list1": 90,
+  "list2": 66.36,
+  "list3": 62,
+  "cost": 55.64,
+  "category": "CHOC",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92182"
+  },
+  "id": "7798094223261",
+  "name": "Torta Genio Blanco",
+  "description": "x20u",
+  "list1": 90,
+  "list2": 66.36,
+  "list3": 62,
+  "cost": 55.64,
+  "category": "CHOC",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92183"
+  },
+  "id": "77976291",
+  "name": "Tita",
+  "description": "x36u",
+  "list1": 85,
+  "list2": 66.12,
+  "list3": 63.58,
+  "cost": 57.8,
+  "category": "CHOC",
+  "quantity": 42
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92184"
+  },
+  "id": "78600027",
+  "name": "Tic Tac Naranja",
+  "description": "x12u",
+  "list1": 90,
+  "list2": 71,
+  "list3": 68.34,
+  "cost": 47.74,
+  "category": "GOL",
+  "quantity": 80
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92185"
+  },
+  "id": "7797394001265",
+  "name": "Tic Tac Mix Frutal",
+  "description": "x12u",
+  "list1": 90,
+  "list2": 71,
+  "list3": 68.34,
+  "cost": 47.74,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92186"
+  },
+  "id": "7790150330166",
+  "name": "Te de Manzanilla",
+  "description": "x25u",
+  "list1": 152.82,
+  "list2": 152.82,
+  "list3": 146.94,
+  "cost": 129.58,
+  "category": "COM",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92187"
+  },
+  "id": "7790387800135",
+  "name": "Te Taragui",
+  "description": "x10u bulto",
+  "list1": 120,
+  "list2": 93,
+  "list3": 90,
+  "cost": 69.9,
+  "category": "COM",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92188"
+  },
+  "id": "7790150211816",
+  "name": "Te La Virginia",
+  "description": "x25u",
+  "list1": 79,
+  "list2": 79,
+  "list3": 79,
+  "cost": 74.9,
+  "category": "COM",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92189"
+  },
+  "id": "7790150310267",
+  "name": "Te Boldo La Virginia",
+  "description": "x25u",
+  "list1": 251.5,
+  "list2": 251.5,
+  "list3": 241.9,
+  "cost": 219.89,
+  "category": "COM",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9218a"
+  },
+  "id": "7790380024750",
+  "name": "Tableta Full Mani",
+  "description": "x110gr",
+  "list1": 211,
+  "list2": 211,
+  "list3": 211,
+  "cost": 180,
+  "category": "CHOC",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9218b"
+  },
+  "id": "7798119220015",
+  "name": "Speed",
+  "description": "x250ml",
+  "list1": 135,
+  "list2": 135,
+  "list3": 135,
+  "cost": 104.05,
+  "category": "BEB",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9218c"
+  },
+  "id": "7790154000652",
+  "name": "Sidra Del Valle ",
+  "description": "720cc x6u",
+  "list1": 389,
+  "list2": 389,
+  "list3": 372.9,
+  "cost": 339,
+  "category": "BEB",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9218d"
+  },
+  "id": "7798121820289",
+  "name": "Semilla San Jorge Premium",
+  "description": "x10u",
+  "list1": 220,
+  "list2": 220,
+  "list3": 220,
+  "cost": 161,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9218e"
+  },
+  "id": "7798121820333",
+  "name": "Semilla San Jorge Familiar ",
+  "description": "x5u",
+  "list1": 357.9,
+  "list2": 357.9,
+  "list3": 328,
+  "cost": 298.28,
+  "category": "GOL",
+  "quantity": 13
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9218f"
+  },
+  "id": "7798044150791",
+  "name": "Semilla Pipa Snack",
+  "description": "x12u",
+  "list1": 250,
+  "list2": 214.67,
+  "list3": 206,
+  "cost": 182.01,
+  "category": "SNACK",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92190"
+  },
+  "id": "Semilla",
+  "name": "Semilla Familiar xunidad",
+  "description": "unidad",
+  "list1": 80,
+  "list2": 62,
+  "list3": 62,
+  "cost": 54.1,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92191"
+  },
+  "id": "7798044151200",
+  "name": "Semilla Camperito Familiar ",
+  "description": "x5u",
+  "list1": 310,
+  "list2": 310,
+  "list3": 310,
+  "cost": 270,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92192"
+  },
+  "id": "7798044151194",
+  "name": "Semilla Camperito Clasicas",
+  "description": "x10u",
+  "list1": 310,
+  "list2": 310,
+  "list3": 310,
+  "cost": 270,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92193"
+  },
+  "id": "77912718",
+  "name": "Sapito Mani",
+  "description": "x24u",
+  "list1": 60,
+  "list2": 42.69,
+  "list3": 40.09,
+  "cost": 22.15,
+  "category": "GALL",
+  "quantity": 56
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92194"
+  },
+  "id": "7790580423803",
+  "name": "Sapito Lengua Loca",
+  "description": "x24u",
+  "list1": 30,
+  "list2": 21.23,
+  "list3": 19.5,
+  "cost": 16.99,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92195"
+  },
+  "id": "77917393",
+  "name": "Sapito Frutilla",
+  "description": "x24u",
+  "list1": 60,
+  "list2": 42.69,
+  "list3": 40.09,
+  "cost": 22.15,
+  "category": "GALL",
+  "quantity": 73
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92196"
+  },
+  "id": "7794612139106",
+  "name": "Sapito Dulce de Leche",
+  "description": "x24u",
+  "list1": 60,
+  "list2": 42.69,
+  "list3": 40.09,
+  "cost": 22.15,
+  "category": "GALL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92197"
+  },
+  "id": "7790580404314",
+  "name": "Sapito Confite",
+  "description": "x24u",
+  "list1": 60,
+  "list2": 41.69,
+  "list3": 40.09,
+  "cost": 34.07,
+  "category": "GOL",
+  "quantity": 288
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92198"
+  },
+  "id": "7790036004914",
+  "name": "Salsa de Tomate Baggio 7 Dias",
+  "description": "x210gr x18u",
+  "list1": 65.74,
+  "list2": 65.74,
+  "list3": 65.74,
+  "cost": 54.79,
+  "category": "COM",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92199"
+  },
+  "id": "7790580387006",
+  "name": "Saladix Tira Pizza x6un x30gr",
+  "description": "8 tiras xbulto",
+  "list1": 590,
+  "list2": 540.24,
+  "list3": 495,
+  "cost": 432.12,
+  "category": "GALL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9219a"
+  },
+  "id": "7790040111332",
+  "name": "Saladix Panchitos",
+  "description": "x65gr",
+  "list1": 205,
+  "list2": 157.66,
+  "list3": 144.52,
+  "cost": 127.44,
+  "category": "SNACK",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9219b"
+  },
+  "id": "7790580387105",
+  "name": "Saladix Jamon x6un tira",
+  "description": "x30gr  x8 tiras bulto",
+  "list1": 590,
+  "list2": 540.24,
+  "list3": 495,
+  "cost": 392.76,
+  "category": "GALL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9219c"
+  },
+  "id": "Saladix Individual Bolsita",
+  "name": "Saladix Ind",
+  "list1": 130,
+  "list2": 130,
+  "list3": 130,
+  "cost": 59.59,
+  "category": "SNACK",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9219d"
+  },
+  "id": "7790040374706",
+  "name": "Saladix Duo Jamon y queso x25gr ",
+  "description": "x6un tira  x8 tiras bulto",
+  "list1": 590,
+  "list2": 540.24,
+  "list3": 495,
+  "cost": 432.12,
+  "category": "GALL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9219e"
+  },
+  "id": "7790580697303",
+  "name": "Saladix Caja Pizza",
+  "description": "100gr x6u",
+  "list1": 200,
+  "list2": 169.47,
+  "list3": 155,
+  "cost": 135.56,
+  "category": "GALL",
+  "quantity": 25
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9219f"
+  },
+  "id": "7790580716707",
+  "name": "Saladix Caja Jamón ",
+  "description": "100gr x6u",
+  "list1": 200,
+  "list2": 169.47,
+  "list3": 155,
+  "cost": 124.49,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a0"
+  },
+  "id": "7790040374607",
+  "name": "Saladix Caja Duo",
+  "description": "x6u",
+  "list1": 200,
+  "list2": 169.47,
+  "list3": 155,
+  "cost": 135.56,
+  "category": "GALL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a1"
+  },
+  "id": "7790580716806",
+  "name": "Saladix Caja Calabresa",
+  "description": "x6u",
+  "list1": 200,
+  "list2": 169.47,
+  "list3": 155,
+  "cost": 124.49,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a2"
+  },
+  "id": "7798186030838",
+  "name": "Rompe Muelas",
+  "description": "x50u",
+  "list1": 10,
+  "list2": 10,
+  "list3": 10,
+  "cost": 4.8,
+  "category": "GOL",
+  "quantity": 48
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a3"
+  },
+  "id": "7790580421007",
+  "name": "Rocklets",
+  "description": "x24u  x20gr",
+  "list1": 90,
+  "list2": 61.68,
+  "list3": 61.68,
+  "cost": 55.52,
+  "category": "CHOC",
+  "quantity": 48
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a4"
+  },
+  "id": "Riquitas",
+  "name": "Riquitas Fer-Pat",
+  "description": "x30u",
+  "list1": 599,
+  "list2": 599,
+  "list3": 599,
+  "cost": 462,
+  "category": "SNACK",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a5"
+  },
+  "id": "77995681",
+  "name": "Rhodesia",
+  "description": "x36u",
+  "list1": 94,
+  "list2": 72.32,
+  "list3": 69.53,
+  "cost": 63.21,
+  "category": "CHOC",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a6"
+  },
+  "id": "7790040100336",
+  "name": "Rex Tubo",
+  "description": "x75gr",
+  "list1": 148.8,
+  "list2": 132,
+  "list3": 132,
+  "cost": 100.12,
+  "category": "GALL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a7"
+  },
+  "id": "7790040719804",
+  "name": "Rex Caja",
+  "description": "x125gr",
+  "list1": 270,
+  "list2": 222.44,
+  "list3": 203.9,
+  "cost": 185,
+  "category": "GALL",
+  "quantity": 19
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a8"
+  },
+  "id": "7790040003569",
+  "name": "Rex Bolsita",
+  "description": "x75gr",
+  "list1": 179,
+  "list2": 137.71,
+  "list3": 126.23,
+  "cost": 110.14,
+  "category": "GALL",
+  "quantity": 32
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921a9"
+  },
+  "id": "Raspadita",
+  "name": "Raspadita Fifa World",
+  "description": "x20u",
+  "list1": 80,
+  "list2": 60,
+  "list3": 60,
+  "cost": 50,
+  "category": "VAR",
+  "quantity": 19
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921aa"
+  },
+  "id": "Puflo 500gr",
+  "name": "Puflo Patito x500gr",
+  "list1": 520,
+  "list2": 520,
+  "list3": 480,
+  "cost": 400,
+  "category": "SNACK",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ab"
+  },
+  "id": "Puflo",
+  "name": "Puflo Patito",
+  "description": "x30u",
+  "list1": 540,
+  "list2": 540,
+  "list3": 490,
+  "cost": 359.59,
+  "category": "SNACK",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ac"
+  },
+  "id": "Pufloindividual",
+  "name": "Puflo Individual",
+  "list1": 70,
+  "list2": 70,
+  "list3": 70,
+  "cost": 39.6,
+  "category": "SNACK",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ad"
+  },
+  "id": "7790040287105",
+  "name": "Polvorita Vainilla Grande",
+  "description": "x150gr",
+  "list1": 120.08,
+  "list2": 92.37,
+  "list3": 87.8,
+  "cost": 76.8,
+  "category": "GALL",
+  "quantity": 30
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ae"
+  },
+  "id": "7790040314108",
+  "name": "Polvorita Vainilla",
+  "description": "x40u",
+  "list1": 90,
+  "list2": 71.29,
+  "list3": 68.55,
+  "cost": 44.54,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921af"
+  },
+  "id": "7790040287204",
+  "name": "Polvorita Frutilla Grande",
+  "description": "x150gr",
+  "list1": 120.08,
+  "list2": 92.37,
+  "list3": 87.8,
+  "cost": 76.8,
+  "category": "GALL",
+  "quantity": 30
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b0"
+  },
+  "id": "7790040314207",
+  "name": "Polvorita Frutilla",
+  "description": "x40u",
+  "list1": 70,
+  "list2": 50.95,
+  "list3": 48.99,
+  "cost": 44.54,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b1"
+  },
+  "id": "7790040314009",
+  "name": "Polvorita Chocolate",
+  "description": "x40u",
+  "list1": 70,
+  "list2": 50.95,
+  "list3": 48.99,
+  "cost": 44.54,
+  "category": "GALL",
+  "quantity": 40
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b2"
+  },
+  "id": "Pochoclo",
+  "name": "Pochoclo Patito",
+  "description": "x24u",
+  "list1": 430,
+  "list2": 430,
+  "list3": 410,
+  "cost": 319,
+  "category": "SNACK",
+  "quantity": 11
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b3"
+  },
+  "id": "656750720752",
+  "name": "Pochoclo La Morena",
+  "description": "Maiz x90gr",
+  "list1": 80,
+  "list2": 61,
+  "list3": 58,
+  "cost": 49.95,
+  "category": "SNACK",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b4"
+  },
+  "id": "656750720745",
+  "name": "Pochoclo La Morena",
+  "description": "Trigo 90gr",
+  "list1": 80,
+  "list2": 61,
+  "list3": 58,
+  "cost": 49.35,
+  "category": "SNACK",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b5"
+  },
+  "id": "7792307000717",
+  "name": "Plenario Gomis Viajamos",
+  "description": "x500gr",
+  "list1": 660,
+  "list2": 660,
+  "list3": 660,
+  "cost": 584.42,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b6"
+  },
+  "id": "7792307000700",
+  "name": "Plenario Gomis Gusanitos",
+  "description": "x500gr",
+  "list1": 660,
+  "list2": 660,
+  "list3": 660,
+  "cost": 523.69,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b7"
+  },
+  "id": "77965233",
+  "name": "Pipa Roja Tira",
+  "description": "x10u",
+  "list1": 301.38,
+  "list2": 301.38,
+  "list3": 301.38,
+  "cost": 263.45,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b8"
+  },
+  "id": "798044150777",
+  "name": "Pipa Pelada Salada",
+  "description": "x20u",
+  "list1": 61.5,
+  "list2": 47.33,
+  "list3": 45.51,
+  "cost": 41.38,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921b9"
+  },
+  "id": "7798044151101",
+  "name": "Pipa Pelada ",
+  "description": "x180gr",
+  "list1": 200,
+  "list2": 159,
+  "list3": 159,
+  "cost": 135.16,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ba"
+  },
+  "id": "PIPA",
+  "name": "Pipa Gigante Unidad",
+  "description": "unidad",
+  "list1": 100,
+  "list2": 71.3,
+  "list3": 65.31,
+  "cost": 59.41,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921bb"
+  },
+  "id": "7798044150555",
+  "name": "Pipa Gigante Tira",
+  "description": "x10u",
+  "list1": 799,
+  "list2": 799,
+  "list3": 740,
+  "cost": 666.58,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921bc"
+  },
+  "id": "7798044150562",
+  "name": "Pipa Gigante  ",
+  "description": "x12u",
+  "list1": 100,
+  "list2": 79.43,
+  "list3": 76.38,
+  "cost": 69.44,
+  "category": "GOL",
+  "quantity": 32
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921bd"
+  },
+  "id": "783094051386",
+  "name": "Pilas Rayovac",
+  "description": "x10u",
+  "list1": 106,
+  "list2": 98.61,
+  "list3": 98.61,
+  "cost": 82.18,
+  "category": "VAR",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921be"
+  },
+  "id": "7790360720122",
+  "name": "Picadillo La Blanca",
+  "description": "x90gr",
+  "list1": 70,
+  "list2": 70,
+  "list3": 70,
+  "cost": 54.2,
+  "category": "COM",
+  "quantity": 11
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921bf"
+  },
+  "id": "7790250054894",
+  "name": "Pañuelito Elite",
+  "description": "x6u",
+  "list1": 194.76,
+  "list2": 194.76,
+  "list3": 186.9,
+  "cost": 169.9,
+  "category": "VAR",
+  "quantity": 35
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c0"
+  },
+  "id": "78930650",
+  "name": "Pastilla Mentos Magic",
+  "description": "x12u",
+  "list1": 122,
+  "list2": 94.25,
+  "list3": 90.6,
+  "cost": 82.39,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c1"
+  },
+  "id": "78925281",
+  "name": "Pastilla Mentos Frutilla",
+  "description": "x12u",
+  "list1": 122,
+  "list2": 94.25,
+  "list3": 90.6,
+  "cost": 82.39,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c2"
+  },
+  "id": "7792180137876",
+  "name": "Paseo Tostadas Dulces",
+  "description": "200gr",
+  "list1": 227.65,
+  "list2": 227.65,
+  "list3": 218,
+  "cost": 199,
+  "category": "COM",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c3"
+  },
+  "id": "7792180137845",
+  "name": "Paseo Tostadas Clasicas",
+  "description": "x200gr",
+  "list1": 227.65,
+  "list2": 227.65,
+  "list3": 218,
+  "cost": 199,
+  "category": "COM",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c4"
+  },
+  "id": "Chupetin Paraguita",
+  "name": "Paraguita",
+  "description": "x40u",
+  "list1": 70,
+  "list2": 52.53,
+  "list3": 52.53,
+  "cost": 45.92,
+  "category": "CHOC",
+  "quantity": 14
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c5"
+  },
+  "id": "7798149380963",
+  "name": "Papas Snacko Limon",
+  "description": "x115gr",
+  "list1": 256,
+  "list2": 256,
+  "list3": 256,
+  "cost": 224.29,
+  "category": "SNACK",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c6"
+  },
+  "id": "7798149380819",
+  "name": "Papas Snacko Jamon Serrano",
+  "description": "x115gr",
+  "list1": 256,
+  "list2": 256,
+  "list3": 256,
+  "cost": 217.56,
+  "category": "SNACK",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c7"
+  },
+  "id": "7798149380567",
+  "name": "Papas Snacko Clasicas",
+  "description": "x120gr",
+  "list1": 302,
+  "list2": 302,
+  "list3": 290.7,
+  "cost": 251.07,
+  "category": "SNACK",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c8"
+  },
+  "id": "7798149380581",
+  "name": "Papas Snacko Clasica",
+  "description": "x500gr",
+  "list1": 749.9,
+  "list2": 749.9,
+  "list3": 749.9,
+  "cost": 624.99,
+  "category": "SNACK",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921c9"
+  },
+  "id": "7798149380802",
+  "name": "Papas Snacko Cheddar",
+  "description": "x115gr",
+  "list1": 256,
+  "list2": 256,
+  "list3": 256,
+  "cost": 217.56,
+  "category": "SNACK",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ca"
+  },
+  "id": "7798149380543",
+  "name": "Papas Snacko ",
+  "description": "x25gr",
+  "list1": 100,
+  "list2": 76.22,
+  "list3": 69.9,
+  "cost": 50.32,
+  "category": "SNACK",
+  "quantity": 60
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921cb"
+  },
+  "id": "7798149380550",
+  "name": "Papas Snacko",
+  "description": "x40gr",
+  "list1": 120,
+  "list2": 96.77,
+  "list3": 96.77,
+  "cost": 46.49,
+  "category": "SNACK",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921cc"
+  },
+  "id": "7798221650304",
+  "name": "Papas La Especial",
+  "description": "x1kg",
+  "list1": 1360,
+  "list2": 1360,
+  "list3": 1360,
+  "cost": 1089.6,
+  "category": "SNACK",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921cd"
+  },
+  "id": "7798221650731",
+  "name": "Papa Frita la Especial Pays ",
+  "description": "xkl",
+  "list1": 1360,
+  "list2": 1360,
+  "list3": 1360,
+  "cost": 900,
+  "category": "SNACK",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ce"
+  },
+  "id": "7795735000427",
+  "name": "Pan Dulce 4 Espigas con Fruta",
+  "description": "x400gr",
+  "list1": 287.9,
+  "list2": 287.9,
+  "list3": 263.9,
+  "cost": 239.79,
+  "category": "COM",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921cf"
+  },
+  "id": "7795735000441",
+  "name": "Pan Dulce 4 Espigas con Chips",
+  "description": "x400gr",
+  "list1": 287.9,
+  "list2": 287.9,
+  "list3": 263.9,
+  "cost": 239.79,
+  "category": "COM",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d0"
+  },
+  "id": "7798221650014",
+  "name": "Palito Salados La Especial",
+  "description": "x70gr x10u",
+  "list1": 510,
+  "list2": 510,
+  "list3": 510,
+  "cost": 408,
+  "category": "SNACK",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d1"
+  },
+  "id": "7798221650069",
+  "name": "Palito Salado la especial x20 tira",
+  "description": "x20gr ",
+  "list1": 300,
+  "list2": 300,
+  "list3": 300,
+  "cost": 240,
+  "category": "SNACK",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d2"
+  },
+  "id": "Palito Salado Individual",
+  "name": "Palito Salado ind",
+  "list1": 70,
+  "list2": 70,
+  "list3": 70,
+  "cost": 40.8,
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d3"
+  },
+  "id": "7798221650038",
+  "name": "Palito Salado La Especial",
+  "description": "x500gr",
+  "list1": 335,
+  "list2": 335,
+  "list3": 335,
+  "cost": 268,
+  "category": "SNACK",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d4"
+  },
+  "id": "7798060220058",
+  "name": "Palito Salado Frititas",
+  "description": "x100gr",
+  "list1": 110,
+  "list2": 84.2,
+  "list3": 80.95,
+  "cost": 71.36,
+  "category": "SNACK",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d5"
+  },
+  "id": "6929309114772",
+  "name": "Palito Chino Zombies",
+  "description": "x60u",
+  "list1": 36.4,
+  "list2": 36.4,
+  "list3": 32,
+  "cost": 28,
+  "category": "GOL",
+  "quantity": 46
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d6"
+  },
+  "id": "6941327853860",
+  "name": "Palito Chino Frozen",
+  "description": "x60u",
+  "list1": 36.4,
+  "list2": 36.4,
+  "list3": 32,
+  "cost": 28,
+  "category": "GOL",
+  "quantity": 60
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d7"
+  },
+  "id": "7798147979602",
+  "name": "Palito Brochet x30cm",
+  "description": "x50u",
+  "list1": 180,
+  "list2": 180,
+  "list3": 180,
+  "cost": 100,
+  "category": "VAR",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d8"
+  },
+  "id": "Paleta Kingo",
+  "name": "Paleta Tutti Frutti Kingo",
+  "description": "x10u",
+  "list1": 840,
+  "list2": 840,
+  "list3": 840,
+  "cost": 650,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921d9"
+  },
+  "id": "Paletas Pasteles",
+  "name": "Paleta Tutti Frutti",
+  "description": "x10u",
+  "list1": 840,
+  "list2": 840,
+  "list3": 840,
+  "cost": 650,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921da"
+  },
+  "id": "Paletita Corazon Artesanal",
+  "name": "Paleta Corazon",
+  "description": "x10u",
+  "list1": 600,
+  "list2": 600,
+  "list3": 600,
+  "cost": 500,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921db"
+  },
+  "id": "Paleta Chiquita Espiral",
+  "name": "Paleta Chupetin Gabriel",
+  "description": "x20u",
+  "list1": 470,
+  "list2": 470,
+  "list3": 470,
+  "cost": 376,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921dc"
+  },
+  "id": "Paletita Artesanal Suelta",
+  "name": "Paleta Chupetin",
+  "description": "individual",
+  "list1": 80,
+  "list2": 80,
+  "list3": 80,
+  "cost": 50,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921dd"
+  },
+  "id": "77971692",
+  "name": "Opera Frutilla",
+  "description": "x60gr",
+  "list1": 120,
+  "list2": 93.1,
+  "list3": 89.5,
+  "cost": 66.14,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921de"
+  },
+  "id": "7793123160050",
+  "name": "Oblita chocolate",
+  "description": "x50gr ",
+  "list1": 70,
+  "list2": 48.09,
+  "list3": 45.3,
+  "cost": 40.08,
+  "category": "GALL",
+  "quantity": 38
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921df"
+  },
+  "id": "7793123160012",
+  "name": "Oblita Vainilla",
+  "description": "x96u x50gr",
+  "list1": 70,
+  "list2": 48.05,
+  "list3": 45.3,
+  "cost": 40.08,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e0"
+  },
+  "id": "7793209000140",
+  "name": "Oblita Tym vainilla",
+  "description": "x50gr",
+  "list1": 60,
+  "list2": 43.98,
+  "list3": 40.32,
+  "cost": 36.65,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e1"
+  },
+  "id": "7793209903632",
+  "name": "Oblita Tym vain ft",
+  "description": "x50gr",
+  "list1": 60,
+  "list2": 43.98,
+  "list3": 40.32,
+  "cost": 36.65,
+  "category": "GALL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e2"
+  },
+  "id": "7793209000348",
+  "name": "Oblita Tym gde vainilla",
+  "description": "x100gr",
+  "list1": 105.57,
+  "list2": 81.21,
+  "list3": 78.86,
+  "cost": 70.99,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e3"
+  },
+  "id": "7793209000331",
+  "name": "Oblita Tym gde ftlla",
+  "description": "x100gr",
+  "list1": 105.57,
+  "list2": 81.21,
+  "list3": 78.86,
+  "cost": 70.99,
+  "category": "GALL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e4"
+  },
+  "id": "7793209000157",
+  "name": "Oblita Tym frut",
+  "description": "x50gr",
+  "list1": 60,
+  "list2": 43.98,
+  "list3": 40.32,
+  "cost": 36.65,
+  "category": "GALL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e5"
+  },
+  "id": "7793209000171",
+  "name": "Oblita Tym Chocolate ",
+  "description": "x50gr",
+  "list1": 60,
+  "list2": 43.98,
+  "list3": 40.32,
+  "cost": 36.65,
+  "category": "GALL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e6"
+  },
+  "id": "7793209000454",
+  "name": "Oblita Tym  limon",
+  "description": "x50gr",
+  "list1": 60,
+  "list2": 43.98,
+  "list3": 40.32,
+  "cost": 36.65,
+  "category": "GALL",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e7"
+  },
+  "id": "7793123013479",
+  "name": "Oblita Sandia",
+  "description": "x96u x50gr",
+  "list1": 70,
+  "list2": 48.05,
+  "list3": 45.3,
+  "cost": 38.91,
+  "category": "GALL",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e8"
+  },
+  "id": "7793123070076",
+  "name": "Oblita Milk",
+  "description": "x34gr x32u",
+  "list1": 40,
+  "list2": 27.94,
+  "list3": 26,
+  "cost": 23.29,
+  "category": "GALL",
+  "quantity": 32
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921e9"
+  },
+  "id": "7793123160029",
+  "name": "Oblita Frutilla",
+  "description": "x96u x50gr",
+  "list1": 70,
+  "list2": 48.09,
+  "list3": 45.3,
+  "cost": 40.08,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ea"
+  },
+  "id": "7793123160036",
+  "name": "Oblita Chocolate",
+  "description": "x50gr",
+  "list1": 70,
+  "list2": 48.09,
+  "list3": 45.3,
+  "cost": 40.08,
+  "category": "GALL",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921eb"
+  },
+  "id": "7798094220444",
+  "name": "Oblea Smack",
+  "description": "x44u",
+  "list1": 60,
+  "list2": 43.9,
+  "list3": 42.3,
+  "cost": 30.98,
+  "category": "CHOC",
+  "quantity": 44
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ec"
+  },
+  "id": "7798094223858",
+  "name": "Oblea Rellena Vainilla Crocbar",
+  "description": "x29gr x44u",
+  "list1": 50,
+  "list2": 38.07,
+  "list3": 34.9,
+  "cost": 28.66,
+  "category": "GOL",
+  "quantity": 44
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ed"
+  },
+  "id": "7798186032443",
+  "name": "Oblea Rellena Gongys",
+  "description": "x50u 16gr",
+  "list1": 22,
+  "list2": 16.1,
+  "list3": 16.1,
+  "cost": 13.42,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ee"
+  },
+  "id": "7794612167000",
+  "name": "Oblea Hamlet",
+  "description": "x18u",
+  "list1": 64.14,
+  "list2": 49.34,
+  "list3": 45.23,
+  "cost": 39.47,
+  "category": "CHOC",
+  "quantity": 29
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ef"
+  },
+  "id": "7798094223827",
+  "name": "Oblea Crocbar Chocolate Negro",
+  "description": "x44u",
+  "list1": 50,
+  "list2": 38.07,
+  "list3": 34.9,
+  "cost": 31.67,
+  "category": "GOL",
+  "quantity": 44
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f0"
+  },
+  "id": "7896969401179",
+  "name": "Nucita",
+  "description": "x48u",
+  "list1": 943,
+  "list2": 943,
+  "list3": 923,
+  "cost": 722.78,
+  "category": "CHOC",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f1"
+  },
+  "id": "7613287850355",
+  "name": "Nesquik Cacao",
+  "description": "x180gr",
+  "list1": 188,
+  "list2": 188,
+  "list3": 188,
+  "cost": 97.98,
+  "category": "COM",
+  "quantity": 13
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f2"
+  },
+  "id": "6952900120682",
+  "name": "Monedita Reloj",
+  "description": "x20",
+  "list1": 70,
+  "list2": 60,
+  "list3": 60,
+  "cost": 50,
+  "category": "CHOC",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f3"
+  },
+  "id": "67790580133849",
+  "name": "Mogul Tubito Acido",
+  "description": "x12u",
+  "list1": 60,
+  "list2": 47.93,
+  "list3": 46.29,
+  "cost": 41.9,
+  "category": "GOL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f4"
+  },
+  "id": "Chupetin Pico Dulce Mitad",
+  "name": "Mitad Pico Dulce",
+  "list1": 30,
+  "list2": 30,
+  "list3": 30,
+  "cost": 11.34,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f5"
+  },
+  "id": "Miel",
+  "name": "Mitad Miel",
+  "description": "x337,5",
+  "list1": 378,
+  "list2": 378,
+  "list3": 378,
+  "cost": 256.15,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f6"
+  },
+  "id": "Menta",
+  "name": "Mitad Menta Cristal",
+  "description": "x405gr",
+  "list1": 399,
+  "list2": 399,
+  "list3": 399,
+  "cost": 308.74,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f7"
+  },
+  "id": "Batter Toffess Mitad",
+  "name": "Mitad Butter Toffess",
+  "list1": 420,
+  "list2": 420,
+  "list3": 420,
+  "cost": 317.1,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f8"
+  },
+  "id": "7790580310806",
+  "name": "Misky Taza ",
+  "description": "x10u",
+  "list1": 212.47,
+  "list2": 163.44,
+  "list3": 149.82,
+  "cost": 118.26,
+  "category": "CHOC",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921f9"
+  },
+  "id": "77942432",
+  "name": "Mini Rocklet",
+  "description": "x44u",
+  "list1": 40,
+  "list2": 40,
+  "list3": 40,
+  "cost": 22.81,
+  "category": "CHOC",
+  "quantity": 40
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921fa"
+  },
+  "id": "Mielcita",
+  "name": "Mielcita Ceballos",
+  "description": "x20u",
+  "list1": 220,
+  "list2": 220,
+  "list3": 220,
+  "cost": 182.35,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921fb"
+  },
+  "id": "7795184119756",
+  "name": "Mermelada Durazno Noel",
+  "description": "x454gr",
+  "list1": 193.32,
+  "list2": 193.32,
+  "list3": 185.9,
+  "cost": 168.99,
+  "category": "COM",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921fc"
+  },
+  "id": "7795184119787",
+  "name": "Mermelada Ciruela Noel",
+  "description": "x454g",
+  "list1": 193.32,
+  "list2": 193.32,
+  "list3": 185.9,
+  "cost": 149.9,
+  "category": "COM",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921fd"
+  },
+  "id": "77958662",
+  "name": "Menthoplus Verde",
+  "description": "x12u",
+  "list1": 90,
+  "list2": 66.65,
+  "list3": 61.1,
+  "cost": 48.47,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921fe"
+  },
+  "id": "77958631",
+  "name": "Menthoplus Rojo",
+  "description": "x12u",
+  "list1": 90,
+  "list2": 66.65,
+  "list3": 61.1,
+  "cost": 48.47,
+  "category": "GOL",
+  "quantity": 25
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f921ff"
+  },
+  "id": "77958648",
+  "name": "Menthoplus Negro",
+  "description": "x12u",
+  "list1": 90,
+  "list2": 66.65,
+  "list3": 61.1,
+  "cost": 53.31,
+  "category": "GOL",
+  "quantity": 13
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92200"
+  },
+  "id": "77958655",
+  "name": "Menthoplus Miel",
+  "description": "x12u",
+  "list1": 90,
+  "list2": 66.65,
+  "list3": 61.1,
+  "cost": 48.47,
+  "category": "GOL",
+  "quantity": 11
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92201"
+  },
+  "id": "77958624",
+  "name": "Menthoplus Azul",
+  "description": "x12u",
+  "list1": 90,
+  "list2": 66.65,
+  "list3": 61.1,
+  "cost": 55.44,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92202"
+  },
+  "id": "7794000006096",
+  "name": "Mayonesa Hellmans ",
+  "description": "x125gr  x20u",
+  "list1": 120,
+  "list2": 95,
+  "list3": 95,
+  "cost": 85,
+  "category": "COM",
+  "quantity": 80
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92203"
+  },
+  "id": "7790480089819",
+  "name": "Mate Cocido La Tranquera",
+  "description": "x25u",
+  "list1": 137.86,
+  "list2": 137.86,
+  "list3": 126.5,
+  "cost": 114.89,
+  "category": "COM",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92204"
+  },
+  "id": "7794612105651",
+  "name": "Masticable Zoo Yogur",
+  "description": "x151",
+  "list1": 480.2,
+  "list2": 462.68,
+  "list3": 440,
+  "cost": 397.66,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92205"
+  },
+  "id": "7792354002214",
+  "name": "Masticable Taponazo",
+  "description": "250gr x100u ",
+  "list1": 212,
+  "list2": 212,
+  "list3": 207.4,
+  "cost": 188.55,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92206"
+  },
+  "id": "7891151018890",
+  "name": "Masticable TNT Super Acido Azul",
+  "description": "x60u",
+  "list1": 544,
+  "list2": 544,
+  "list3": 523.36,
+  "cost": 461.51,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92207"
+  },
+  "id": "7891151005593",
+  "name": "Masticable TNT Super Acido",
+  "description": "x60u",
+  "list1": 544,
+  "list2": 544,
+  "list3": 523.36,
+  "cost": 461.51,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92208"
+  },
+  "id": "Chupetin Artesanal",
+  "name": "Manzanita",
+  "description": "x10u",
+  "list1": 390,
+  "list2": 390,
+  "list3": 390,
+  "cost": 360,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92209"
+  },
+  "id": "7622201816384",
+  "name": "Mantecol ",
+  "description": "x26gr x16u",
+  "list1": 90,
+  "list2": 69.9,
+  "list3": 66.22,
+  "cost": 60.2,
+  "category": "GOL",
+  "quantity": 16
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9220a"
+  },
+  "id": "7790580136185",
+  "name": "Mano Recolectora",
+  "description": "x396gr",
+  "list1": 1390,
+  "list2": 1390,
+  "list3": 1390,
+  "cost": 1198.52,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9220b"
+  },
+  "id": "040232725081",
+  "name": "Mani con Chocolate Dulcin",
+  "description": "x20u",
+  "list1": 427.5,
+  "list2": 427.5,
+  "list3": 427.5,
+  "cost": 362.47,
+  "category": "CHOC",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9220c"
+  },
+  "id": "7790580110284",
+  "name": "Mani con Chocolate Cofler Block",
+  "description": "x40gr",
+  "list1": 190,
+  "list2": 149.8,
+  "list3": 144.1,
+  "cost": 131,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9220d"
+  },
+  "id": "Mani Salado",
+  "name": "Mani Salado Agus",
+  "description": "x15u",
+  "list1": 370,
+  "list2": 370,
+  "list3": 370,
+  "cost": 287.04,
+  "category": "GOL",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9220e"
+  },
+  "id": "7798151950451",
+  "name": "Mani King Salado Sin Piel",
+  "description": "x120gr  x10u",
+  "list1": 130,
+  "list2": 110,
+  "list3": 110,
+  "cost": 74.19,
+  "category": "SNACK",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9220f"
+  },
+  "id": "7798151952578",
+  "name": "Mani King Salado CON Piel",
+  "description": "x10u  120gr",
+  "list1": 142,
+  "list2": 136,
+  "list3": 136,
+  "cost": 94.6,
+  "category": "SNACK",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92210"
+  },
+  "id": "7798151952608",
+  "name": "Mani King Pizza",
+  "description": "x10u  x120gr",
+  "list1": 136,
+  "list2": 110,
+  "list3": 110,
+  "cost": 84.2,
+  "category": "SNACK",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92211"
+  },
+  "id": "7790040133235",
+  "name": "Mana Rellena Vainilla",
+  "description": "x152gr",
+  "list1": 232.44,
+  "list2": 178.8,
+  "list3": 163.9,
+  "cost": 143.05,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92212"
+  },
+  "id": "7790040133259",
+  "name": "Mana Rellena Limon",
+  "description": "x152gr",
+  "list1": 232.4,
+  "list2": 178.8,
+  "list3": 163.9,
+  "cost": 143.05,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92213"
+  },
+  "id": "7790040133266",
+  "name": "Mana Rellena Frutilla",
+  "description": "x152gr",
+  "list1": 232,
+  "list2": 178.8,
+  "list3": 163.9,
+  "cost": 143,
+  "category": "GALL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92214"
+  },
+  "id": "7790040133242",
+  "name": "Mana Rellena Chocolate",
+  "description": "x152gr",
+  "list1": 232,
+  "list2": 178.8,
+  "list3": 163.9,
+  "cost": 143,
+  "category": "GALL",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92215"
+  },
+  "id": "7790040137813",
+  "name": "Mana Liviana con Leche",
+  "description": "x136gr",
+  "list1": 182,
+  "list2": 140,
+  "list3": 129.07,
+  "cost": 112.61,
+  "category": "GALL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92216"
+  },
+  "id": "07790040720305",
+  "name": "Mana Liviana Limon",
+  "description": "x145gr",
+  "list1": 182,
+  "list2": 140,
+  "list3": 129.07,
+  "cost": 102.37,
+  "category": "GALL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92217"
+  },
+  "id": "7798186032368",
+  "name": "Malvavisco Gongys Vainilla",
+  "description": "x200gr",
+  "list1": 279,
+  "list2": 279,
+  "list3": 279,
+  "cost": 232.58,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92218"
+  },
+  "id": "7798186033617",
+  "name": "Malvavisco Gongys Palito",
+  "description": "x200gr",
+  "list1": 279,
+  "list2": 279,
+  "list3": 279,
+  "cost": 222.86,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92219"
+  },
+  "id": "7798186032382",
+  "name": "Malvavisco Gongys Frutilla",
+  "description": "x200gr",
+  "list1": 279,
+  "list2": 279,
+  "list3": 279,
+  "cost": 206.69,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9221a"
+  },
+  "id": "7798186030593",
+  "name": "Malvavisco Gongys ",
+  "description": "x28gr",
+  "list1": 60,
+  "list2": 46.82,
+  "list3": 46.6,
+  "cost": 39.02,
+  "category": "GOL",
+  "quantity": 52
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9221b"
+  },
+  "id": "7798186032375",
+  "name": "Malvavisco Gongys",
+  "description": "x200gr",
+  "list1": 290,
+  "list2": 290,
+  "list3": 275.8,
+  "cost": 250.69,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9221c"
+  },
+  "id": "7798178801842",
+  "name": "Malvavisco Buffys Tira Celeste",
+  "description": "x20gr  x6u",
+  "list1": 199.85,
+  "list2": 199.85,
+  "list3": 199.85,
+  "cost": 142.6,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9221d"
+  },
+  "id": "7798178800845",
+  "name": "Malvavisco Buffy Tradicional",
+  "description": "x450gr",
+  "list1": 584,
+  "list2": 584,
+  "list3": 584,
+  "cost": 481.3,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9221e"
+  },
+  "id": "7798178801873",
+  "name": "Malvavisco Buffy Rosa",
+  "description": "x20gr  x6u tira",
+  "list1": 199.85,
+  "list2": 199.85,
+  "list3": 199.85,
+  "cost": 174.69,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9221f"
+  },
+  "id": "7798178801637",
+  "name": "Malvavisco Buffy Frutal",
+  "description": "x32u",
+  "list1": 36.92,
+  "list2": 28.4,
+  "list3": 27.3,
+  "cost": 18.77,
+  "category": "GOL",
+  "quantity": 30
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92220"
+  },
+  "id": "7798178801392 ",
+  "name": "Malvavisco Buffy Frutal",
+  "description": "x450gr",
+  "list1": 761.92,
+  "list2": 761.92,
+  "list3": 710.6,
+  "cost": 481.3,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92222"
+  },
+  "id": "7798178801651",
+  "name": "Malvavisco Buffy Fresa",
+  "description": "x32u",
+  "list1": 30,
+  "list2": 23.18,
+  "list3": 23.18,
+  "cost": 18.77,
+  "category": "GOL",
+  "quantity": 85
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92223"
+  },
+  "id": "7798178800715",
+  "name": "Malvavisco Buffy Fresa",
+  "description": "x450gr",
+  "list1": 761.92,
+  "list2": 761.92,
+  "list3": 710.6,
+  "cost": 481.3,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92224"
+  },
+  "id": "7798172410118",
+  "name": "Mafalda Hojaldre Triangulo",
+  "description": "x150gr",
+  "list1": 155,
+  "list2": 119.2,
+  "list3": 114.6,
+  "cost": 101.05,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92225"
+  },
+  "id": "7798172410095",
+  "name": "Mafalda Hojaldre Larguitas",
+  "description": "x150gr",
+  "list1": 155,
+  "list2": 119.2,
+  "list3": 114.6,
+  "cost": 101.6,
+  "category": "GALL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92226"
+  },
+  "id": "Macetero",
+  "name": "Macetero MDF ",
+  "description": "chico",
+  "list1": 230,
+  "list2": 230,
+  "list3": 230,
+  "cost": 150,
+  "category": "VAR",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92227"
+  },
+  "id": "77907943",
+  "name": "Lenguetazo Tuttu Frutti",
+  "description": "x50u",
+  "list1": 60,
+  "list2": 40.6,
+  "list3": 40.6,
+  "cost": 32.82,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92228"
+  },
+  "id": "7790036972602",
+  "name": "Leche Chocolatada Baggio",
+  "description": "x18u x200ml",
+  "list1": 112,
+  "list2": 86.24,
+  "list3": 82.9,
+  "cost": 37.58,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92229"
+  },
+  "id": "7790037001813",
+  "name": "Lanzanieve  Rey Momo",
+  "description": "x12u x380cm3",
+  "list1": 350,
+  "list2": 350,
+  "list3": 264,
+  "cost": 240,
+  "category": "VAR",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9222a"
+  },
+  "id": "Lanza Papelito",
+  "name": "Lanza Papelito ",
+  "list1": 590,
+  "list2": 590,
+  "list3": 590,
+  "cost": 505.9,
+  "category": "VAR",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9222b"
+  },
+  "id": "7798178802368",
+  "name": "Kroomy Mani y Chocolate",
+  "description": "x24u",
+  "list1": 540,
+  "list2": 540,
+  "list3": 519.9,
+  "cost": 367.79,
+  "category": "CHOC",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9222c"
+  },
+  "id": "7798178801248",
+  "name": "Kroomy Frutilla y Chocolate",
+  "description": "x24u",
+  "list1": 540,
+  "list2": 540,
+  "list3": 519.9,
+  "cost": 472.69,
+  "category": "CHOC",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9222d"
+  },
+  "id": "7798178801224",
+  "name": "Kroomy Chocolate y Avellana",
+  "description": "x24u",
+  "list1": 540,
+  "list2": 540,
+  "list3": 519.9,
+  "cost": 367.79,
+  "category": "CHOC",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9222e"
+  },
+  "id": "7798178801231",
+  "name": "Kroomy Chocolate Blanco y Frutilla",
+  "description": "x24u",
+  "list1": 540,
+  "list2": 540,
+  "list3": 515.9,
+  "cost": 472.29,
+  "category": "CHOC",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9222f"
+  },
+  "id": "7790040173200",
+  "name": "Kesita Caja",
+  "description": "x125gr",
+  "list1": 270,
+  "list2": 222.44,
+  "list3": 203.9,
+  "cost": 185,
+  "category": "GALL",
+  "quantity": 16
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92230"
+  },
+  "id": "7790040003606",
+  "name": "Kesita Bolsita",
+  "description": "x75gr",
+  "list1": 179,
+  "list2": 137.71,
+  "list3": 126.23,
+  "cost": 114.55,
+  "category": "GALL",
+  "quantity": 16
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92231"
+  },
+  "id": "Juguito",
+  "name": "Juguito Angelita",
+  "description": "x30u x5u bultos",
+  "list1": 739.46,
+  "list2": 739.46,
+  "list3": 704,
+  "cost": 603.52,
+  "category": "BEB",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92232"
+  },
+  "id": "7798152590571",
+  "name": "Jugo Yap Pomelo",
+  "description": "x18u",
+  "list1": 40,
+  "list2": 32.71,
+  "list3": 31.5,
+  "cost": 28.59,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92233"
+  },
+  "id": "7798152590816",
+  "name": "Jugo Yap Naranja Durazno",
+  "description": "x18u",
+  "list1": 40,
+  "list2": 32.71,
+  "list3": 31.5,
+  "cost": 28.59,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92234"
+  },
+  "id": "7798152590694",
+  "name": "Jugo Yap Naranja Banana",
+  "description": "x18u",
+  "list1": 40,
+  "list2": 32.71,
+  "list3": 31.5,
+  "cost": 28.59,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92235"
+  },
+  "id": "7798152590656",
+  "name": "Jugo Yap Naranja",
+  "description": "x18u",
+  "list1": 40,
+  "list2": 32.71,
+  "list3": 31.5,
+  "cost": 28.59,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92236"
+  },
+  "id": "7798152590618",
+  "name": "Jugo Yap Mix Frutal",
+  "description": "x18u",
+  "list1": 40,
+  "list2": 32.71,
+  "list3": 31.5,
+  "cost": 28.59,
+  "category": "BEB",
+  "quantity": 17
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92237"
+  },
+  "id": "7798152590724",
+  "name": "Jugo Yap Manzana",
+  "description": "x18u",
+  "list1": 40,
+  "list2": 32.71,
+  "list3": 31.5,
+  "cost": 28.59,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92238"
+  },
+  "id": "7798152590687",
+  "name": "Jugo Yap Durazno",
+  "description": "x18u",
+  "list1": 40,
+  "list2": 32.71,
+  "list3": 31.5,
+  "cost": 28.59,
+  "category": "BEB",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92239"
+  },
+  "id": "7798290581608",
+  "name": "Jugo Tutti Multifruta",
+  "description": "x18u  x200ml",
+  "list1": 60,
+  "list2": 40.56,
+  "list3": 40.56,
+  "cost": 33.5,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9223a"
+  },
+  "id": "7798290580144",
+  "name": "Jugo Tutti Multifruta",
+  "description": "x18u  x200ml",
+  "list1": 60,
+  "list2": 40.56,
+  "list3": 40.56,
+  "cost": 33.5,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9223b"
+  },
+  "id": "7622201816520",
+  "name": "Jugo Tang Pomelo Rosado",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.6,
+  "list3": 36.6,
+  "cost": 32.74,
+  "category": "BEB",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9223c"
+  },
+  "id": "7622201816605",
+  "name": "Jugo Tang Pera",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.6,
+  "list3": 36.6,
+  "cost": 21.99,
+  "category": "BEB",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9223d"
+  },
+  "id": "7622201814946",
+  "name": "Jugo Tang Naranja ",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.6,
+  "list3": 36.6,
+  "cost": 32.74,
+  "category": "BEB",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9223e"
+  },
+  "id": "7622201816483",
+  "name": "Jugo Tang Multifruta",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 36.6,
+  "list3": 36.6,
+  "cost": 21.99,
+  "category": "BEB",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9223f"
+  },
+  "id": "7622201814847",
+  "name": "Jugo Tang Manzana",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.6,
+  "list3": 36.6,
+  "cost": 21.99,
+  "category": "BEB",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92240"
+  },
+  "id": "7622201815042",
+  "name": "Jugo Tang Limonada",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.6,
+  "list3": 36.6,
+  "cost": 32.74,
+  "category": "BEB",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92241"
+  },
+  "id": "7622201816674",
+  "name": "Jugo Tang Anana ",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.6,
+  "list3": 36.6,
+  "cost": 32.74,
+  "category": "BEB",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92242"
+  },
+  "id": "7622201816667",
+  "name": "Jugo Tang Anana",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.6,
+  "list3": 36.6,
+  "cost": 21.99,
+  "category": "BEB",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92243"
+  },
+  "id": "7798061000390",
+  "name": "Jugo Inca Pomelo Rosado",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 27.98,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92244"
+  },
+  "id": "7798061000437",
+  "name": "Jugo Inca Pera",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 30.7,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92245"
+  },
+  "id": "7798061000468",
+  "name": "Jugo Inca Naranja Banana",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 30.7,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92246"
+  },
+  "id": "7798061000345",
+  "name": "Jugo Inca Naranja",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 27.98,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92247"
+  },
+  "id": "7798061000420",
+  "name": "Jugo Inca Multifruta",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 27.98,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92248"
+  },
+  "id": "7798061000406",
+  "name": "Jugo Inca Manzana",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 30.7,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92249"
+  },
+  "id": "7798061000376",
+  "name": "Jugo Inca Limon",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 30.7,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9224a"
+  },
+  "id": "7798061000499",
+  "name": "Jugo Inca Frutilla",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 27.98,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9224b"
+  },
+  "id": "7798061000383",
+  "name": "Jugo Inca Durazno",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 27.98,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9224c"
+  },
+  "id": "7798061000475",
+  "name": "Jugo Inca Anana Banana",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 30.7,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9224d"
+  },
+  "id": "7798061000369",
+  "name": "Jugo Inca Anana ",
+  "description": "x18u",
+  "list1": 45,
+  "list2": 35.2,
+  "list3": 33.77,
+  "cost": 30.7,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9224e"
+  },
+  "id": "7790036000466",
+  "name": "Jugo Baggio Multi x8u",
+  "description": "x1L",
+  "list1": 250,
+  "list2": 232,
+  "list3": 213.3,
+  "cost": 160,
+  "category": "BEB",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9224f"
+  },
+  "id": "7790036000343",
+  "name": "Jugo Baggio Durazno ",
+  "description": "x1L x8u",
+  "list1": 250,
+  "list2": 232,
+  "list3": 213.3,
+  "cost": 160,
+  "category": "BEB",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92250"
+  },
+  "id": "7790580131524",
+  "name": "Huevo Sapito",
+  "description": "x12u",
+  "list1": 90,
+  "list2": 71.55,
+  "list3": 71.55,
+  "cost": 62.55,
+  "category": "CHOC",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92251"
+  },
+  "id": "8699462604158",
+  "name": "Huevo Safari",
+  "description": "x24u",
+  "list1": 170,
+  "list2": 130,
+  "list3": 130,
+  "cost": 105.3,
+  "category": "CHOC",
+  "quantity": 26
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92252"
+  },
+  "id": "78931053",
+  "name": "Huevo Kinder",
+  "description": "x12u",
+  "list1": 240,
+  "list2": 215.8,
+  "list3": 207,
+  "cost": 154.68,
+  "category": "CHOC",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92253"
+  },
+  "id": "8699462604257",
+  "name": "Huevo Heros",
+  "description": "x24u",
+  "list1": 130,
+  "list2": 130,
+  "list3": 130,
+  "cost": 105.3,
+  "category": "CHOC",
+  "quantity": 13
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92254"
+  },
+  "id": "7790070419163",
+  "name": "Helado Vainilla Exquisita",
+  "description": "x15u",
+  "list1": 79.9,
+  "list2": 61.5,
+  "list3": 59.9,
+  "cost": 53.51,
+  "category": "COM",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92255"
+  },
+  "id": "7790070419149",
+  "name": "Helado Frutilla Exquisita",
+  "description": "x15u",
+  "list1": 79.9,
+  "list2": 61.5,
+  "list3": 59.9,
+  "cost": 49.36,
+  "category": "COM",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92256"
+  },
+  "id": "7790070419101",
+  "name": "Helado Exquisita Dulce de Leche",
+  "description": "x15u",
+  "list1": 79.9,
+  "list2": 61.5,
+  "list3": 59.9,
+  "cost": 53.51,
+  "category": "COM",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92257"
+  },
+  "id": "Heladito ",
+  "name": "Heladito Seco",
+  "description": "x20u",
+  "list1": 310,
+  "list2": 310,
+  "list3": 310,
+  "cost": 257.6,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92258"
+  },
+  "id": "Heladito",
+  "name": "Heladito Seco",
+  "description": "x30u",
+  "list1": 262,
+  "list2": 262,
+  "list3": 262,
+  "cost": 218.5,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92259"
+  },
+  "id": "7790070507235",
+  "name": "Harina Favorita 000",
+  "description": "x1kg",
+  "list1": 129,
+  "list2": 129,
+  "list3": 129,
+  "cost": 95,
+  "category": "COM",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9225a"
+  },
+  "id": "7794612157902",
+  "name": "Hamlet Surtido Especial",
+  "description": "x296gr",
+  "list1": 490,
+  "list2": 490,
+  "list3": 490,
+  "cost": 412.24,
+  "category": "CHOC",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9225b"
+  },
+  "id": "7794612115964",
+  "name": "Hamlet Mega Mani",
+  "description": "x165gr",
+  "list1": 216,
+  "list2": 216,
+  "list3": 205,
+  "cost": 190,
+  "category": "CHOC",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9225c"
+  },
+  "id": "7794612066419",
+  "name": "Hamlet Frutilla",
+  "description": "x45gr  x21u",
+  "list1": 80,
+  "list2": 62.45,
+  "list3": 60.04,
+  "cost": 51.02,
+  "category": "CHOC",
+  "quantity": 19
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9225d"
+  },
+  "id": "7794612066310",
+  "name": "Hamlet Blanco y Cookies",
+  "description": "x21u",
+  "list1": 80,
+  "list2": 62.45,
+  "list3": 60.04,
+  "cost": 51.02,
+  "category": "CHOC",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9225e"
+  },
+  "id": "7794612065719",
+  "name": "Hamlet Almendras y Mani",
+  "description": "x21u",
+  "list1": 80,
+  "list2": 62.45,
+  "list3": 60.04,
+  "cost": 51.02,
+  "category": "CHOC",
+  "quantity": 26
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9225f"
+  },
+  "id": "7791113006586",
+  "name": "Granas",
+  "description": "xkg",
+  "list1": 494.51,
+  "list2": 494.51,
+  "list3": 494.51,
+  "cost": 414.79,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92260"
+  },
+  "id": "7896058501254",
+  "name": "Gomitas Gomets Jellies",
+  "description": "x700gr",
+  "list1": 626,
+  "list2": 626,
+  "list3": 626,
+  "cost": 560,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92261"
+  },
+  "id": "7798186033051",
+  "name": "Gomita Yummy Piecitos Acido",
+  "description": "x12",
+  "list1": 70,
+  "list2": 54.19,
+  "list3": 49.67,
+  "cost": 39.32,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92262"
+  },
+  "id": "7798186034133",
+  "name": "Gomita Yummy Osito Acido",
+  "description": "x500gr",
+  "list1": 729.8,
+  "list2": 729.8,
+  "list3": 669.3,
+  "cost": 608.45,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92263"
+  },
+  "id": "7798186034119",
+  "name": "Gomita Yummy Osito Acido",
+  "description": "x12u",
+  "list1": 70,
+  "list2": 54.19,
+  "list3": 49.67,
+  "cost": 39.32,
+  "category": "GOL",
+  "quantity": 19
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92264"
+  },
+  "id": "7798186032955",
+  "name": "Gomita Yummy Osito",
+  "description": "x500gr",
+  "list1": 729.8,
+  "list2": 729.8,
+  "list3": 669.3,
+  "cost": 540.81,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92265"
+  },
+  "id": "7798186032627",
+  "name": "Gomita Yummy Osito",
+  "description": "x12",
+  "list1": 70,
+  "list2": 54.19,
+  "list3": 49.67,
+  "cost": 43.42,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92266"
+  },
+  "id": "7798186033457",
+  "name": "Gomita Yummy Moritas",
+  "description": "x12",
+  "list1": 70,
+  "list2": 54.19,
+  "list3": 49.67,
+  "cost": 40.63,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92267"
+  },
+  "id": "7798186032641",
+  "name": "Gomita Yummy Dino",
+  "description": "x12",
+  "list1": 70,
+  "list2": 54.19,
+  "list3": 49.67,
+  "cost": 39.32,
+  "category": "GOL",
+  "quantity": 22
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92268"
+  },
+  "id": "7798186033037",
+  "name": "Gomita Yummy Bananita",
+  "description": "x12",
+  "list1": 70,
+  "list2": 54.19,
+  "list3": 49.67,
+  "cost": 43.42,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92269"
+  },
+  "id": "7798186032948",
+  "name": "Gomita Yummy Bananita",
+  "description": "x500gr",
+  "list1": 729.8,
+  "list2": 729.8,
+  "list3": 669.3,
+  "cost": 540.81,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9226a"
+  },
+  "id": "7798186032689",
+  "name": "Gomita Yummy Animalitos",
+  "description": "x12u",
+  "list1": 70,
+  "list2": 54.19,
+  "list3": 49.67,
+  "cost": 43.42,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9226b"
+  },
+  "id": "7798186032962",
+  "name": "Gomita Yummy Acida 100pies",
+  "description": "x500gr",
+  "list1": 729.8,
+  "list2": 729.8,
+  "list3": 669.3,
+  "cost": 540.81,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9226c"
+  },
+  "id": "7798178801699",
+  "name": "Gomita Woopys",
+  "description": "672gr mast sabor tutti frutti",
+  "list1": 1232,
+  "list2": 1232,
+  "list3": 1232,
+  "cost": 996.47,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9226d"
+  },
+  "id": "7790580116675",
+  "name": "Gomita Tubo Misky",
+  "description": "x12un",
+  "list1": 50,
+  "list2": 32.02,
+  "list3": 30.9,
+  "cost": 27.81,
+  "category": "GOL",
+  "quantity": 288
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9226e"
+  },
+  "id": "7798186032221",
+  "name": "Gomita Piñata Surtida",
+  "description": "x700gr",
+  "list1": 686,
+  "list2": 686,
+  "list3": 660,
+  "cost": 522.48,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9226f"
+  },
+  "id": "7798186031965",
+  "name": "Gomita Piñata Redondita",
+  "description": "x700gr",
+  "list1": 686,
+  "list2": 686,
+  "list3": 660,
+  "cost": 538.72,
+  "category": "GOL",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92270"
+  },
+  "id": "7798186032016",
+  "name": "Gomita Piñata Huesito",
+  "description": "x700gr",
+  "list1": 686,
+  "list2": 686,
+  "list3": 660,
+  "cost": 600,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92271"
+  },
+  "id": "7790580139506",
+  "name": "Gomita Murcielago Mogul",
+  "description": "x12u",
+  "list1": 70,
+  "list2": 58.64,
+  "list3": 56.9,
+  "cost": 44.58,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92272"
+  },
+  "id": "7790580116460",
+  "name": "Gomita Mogul Tubo Acida Extreme",
+  "description": "x12u",
+  "list1": 731,
+  "list2": 731,
+  "list3": 688,
+  "cost": 621,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92273"
+  },
+  "id": "79058019991",
+  "name": "Gomita Mogul Osito",
+  "description": "x12u",
+  "list1": 80,
+  "list2": 61.29,
+  "list3": 56.9,
+  "cost": 49.03,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92274"
+  },
+  "id": "7790580262402",
+  "name": "Gomita Mogul Morita",
+  "description": "x500gr",
+  "list1": 804.36,
+  "list2": 804.36,
+  "list3": 762.59,
+  "cost": 693.27,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92275"
+  },
+  "id": "7790580259402",
+  "name": "Gomita Mogul Morita",
+  "description": "x150gr",
+  "list1": 346,
+  "list2": 288.56,
+  "list3": 277.46,
+  "cost": 235.77,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92276"
+  },
+  "id": "7790580169305",
+  "name": "Gomita Mogul Cerebrito",
+  "description": "x12u",
+  "list1": 80,
+  "list2": 61.29,
+  "list3": 56.9,
+  "cost": 44.58,
+  "category": "GOL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92277"
+  },
+  "id": "7790580128906",
+  "name": "Gomita Mogul Anillos",
+  "description": "x220gr",
+  "list1": 290.6,
+  "list2": 290.6,
+  "list3": 272.34,
+  "cost": 240.16,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92278"
+  },
+  "id": "7790580403805",
+  "name": "Gomita Misky Fantasia",
+  "description": "xkg",
+  "list1": 978,
+  "list2": 978,
+  "list3": 940.63,
+  "cost": 853.42,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92279"
+  },
+  "id": "7790580640101",
+  "name": "Gomita Jelly Roll",
+  "description": "xkg",
+  "list1": 978,
+  "list2": 978,
+  "list3": 940.63,
+  "cost": 853.42,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9227a"
+  },
+  "id": "7792307000724",
+  "name": "Gomita Gomis Besitos de Fresa",
+  "description": "x500gr",
+  "list1": 660,
+  "list2": 660,
+  "list3": 660,
+  "cost": 584.42,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9227b"
+  },
+  "id": "7898279790875",
+  "name": "Gomita Fini",
+  "description": "x500gr",
+  "list1": 824,
+  "list2": 824,
+  "list3": 824,
+  "cost": 760,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9227c"
+  },
+  "id": "7790580132439",
+  "name": "Gomita Fantasia Misky",
+  "description": "x12u",
+  "list1": 50,
+  "list2": 41.33,
+  "list3": 35.61,
+  "cost": 32.38,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9227d"
+  },
+  "id": "7790580222109",
+  "name": "Gomita Eucalipto",
+  "description": "xkg",
+  "list1": 978.25,
+  "list2": 978.25,
+  "list3": 940.63,
+  "cost": 791.87,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9227e"
+  },
+  "id": "7790580134020",
+  "name": "Gomita Conito Yogus ",
+  "description": "x500gr",
+  "list1": 588.46,
+  "list2": 588.46,
+  "list3": 522,
+  "cost": 475.67,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9227f"
+  },
+  "id": "7790580111595",
+  "name": "Gomita Colmillos Mogul",
+  "description": "x12u",
+  "list1": 80,
+  "list2": 61.29,
+  "list3": 56.9,
+  "cost": 44.58,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92280"
+  },
+  "id": "7798186033112",
+  "name": "Gomita Bulldog Tubo Acida",
+  "description": "x12u",
+  "list1": 502.3,
+  "list2": 502.3,
+  "list3": 502.3,
+  "cost": 452.14,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92281"
+  },
+  "id": "8413178372138",
+  "name": "Gomita Bulldog Tajada",
+  "description": "Pote Chico",
+  "list1": 379,
+  "list2": 379,
+  "list3": 379,
+  "cost": 322.13,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92282"
+  },
+  "id": "8413178372169",
+  "name": "Gomita Bulldog Licorito",
+  "list1": 379,
+  "list2": 379,
+  "list3": 379,
+  "cost": 322.13,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92283"
+  },
+  "id": "8413178372176",
+  "name": "Gomita Bulldog Cable",
+  "list1": 379,
+  "list2": 379,
+  "list3": 379,
+  "cost": 322.13,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92284"
+  },
+  "id": "77972583",
+  "name": "Gomita BullDog",
+  "description": "Ácida tubo x12u",
+  "list1": 60,
+  "list2": 41.85,
+  "list3": 41.85,
+  "cost": 37.67,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92285"
+  },
+  "id": "7790580106935",
+  "name": "Gomita Bombon de Fruta",
+  "description": "x500gr",
+  "list1": 837,
+  "list2": 837,
+  "list3": 837,
+  "cost": 727.59,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92286"
+  },
+  "id": "7792220885507",
+  "name": "Gomita Billiken Frutilla a la Crema",
+  "description": "x150gr",
+  "list1": 186,
+  "list2": 186,
+  "list3": 186,
+  "cost": 152.81,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92287"
+  },
+  "id": "7899270108539",
+  "name": "Globos Feliz Cumple Jupiter Party",
+  "description": "Metalizado x44cm",
+  "list1": 980,
+  "list2": 980,
+  "list3": 980,
+  "cost": 750,
+  "category": "VAR",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92288"
+  },
+  "id": "Globos Blancos",
+  "name": "Globos Blancos Party Time",
+  "description": "x50u",
+  "list1": 729,
+  "list2": 729,
+  "list3": 729,
+  "cost": 590,
+  "category": "VAR",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92289"
+  },
+  "id": "7798109600049",
+  "name": "Globos",
+  "description": "x50u",
+  "list1": 780,
+  "list2": 780,
+  "list3": 780,
+  "cost": 650,
+  "category": "VAR",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9228a"
+  },
+  "id": "6908080754551",
+  "name": "Globo Te Amo ",
+  "description": "Metalizado",
+  "list1": 900,
+  "list2": 900,
+  "list3": 900,
+  "cost": 600,
+  "category": "VAR",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9228b"
+  },
+  "id": "Piñata Color Ball",
+  "name": "Globo Piñata Rayado",
+  "description": "x1u",
+  "list1": 420,
+  "list2": 420,
+  "list3": 420,
+  "cost": 336,
+  "category": "VAR",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9228c"
+  },
+  "id": "Piñata",
+  "name": "Globo Piñata Marmolado",
+  "description": "x1u",
+  "list1": 420,
+  "list2": 420,
+  "list3": 420,
+  "cost": 336,
+  "category": "VAR",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9228d"
+  },
+  "id": "Feliz Dia Mama",
+  "name": "Globo Metalizado",
+  "description": "44cm x63cm",
+  "list1": 1200,
+  "list2": 1200,
+  "list3": 1200,
+  "cost": 990,
+  "category": "VAR",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9228e"
+  },
+  "id": "7798109600186",
+  "name": "Globo Globolandia Rosado",
+  "description": "x50u",
+  "list1": 820,
+  "list2": 820,
+  "list3": 820,
+  "cost": 650,
+  "category": "VAR",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9228f"
+  },
+  "id": "7791014020124",
+  "name": "Globo Fiesta Loca",
+  "description": "x50u",
+  "list1": 820,
+  "list2": 820,
+  "list3": 820,
+  "cost": 650,
+  "category": "VAR",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92290"
+  },
+  "id": "7791359120145",
+  "name": "Gelatina Tembleke Mundial",
+  "description": "x6u",
+  "list1": 180,
+  "list2": 139,
+  "list3": 139,
+  "cost": 112.51,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92291"
+  },
+  "id": "7791359120312",
+  "name": "Gelatina Tembleke Dino",
+  "description": "x6u",
+  "list1": 170,
+  "list2": 132.69,
+  "list3": 127.6,
+  "cost": 112.5,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92292"
+  },
+  "id": "7791359130014",
+  "name": "Gelatina Tembleke Cobra",
+  "description": "x12u",
+  "list1": 135,
+  "list2": 104.44,
+  "list3": 100.7,
+  "cost": 91.3,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92293"
+  },
+  "id": "7791359120053",
+  "name": "Gelatina Tembleke Bunny",
+  "description": "x6u",
+  "list1": 170,
+  "list2": 132.69,
+  "list3": 127.6,
+  "cost": 112.6,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92294"
+  },
+  "id": "7791359130069",
+  "name": "Gelatina Tembleke Askirata",
+  "description": "x12u",
+  "list1": 135,
+  "list2": 104.44,
+  "list3": 100.7,
+  "cost": 91.3,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92295"
+  },
+  "id": "6975896426286",
+  "name": "Gelatina Mariposa",
+  "description": "x30u",
+  "list1": 70,
+  "list2": 64,
+  "list3": 64,
+  "cost": 53.33,
+  "category": "GOL",
+  "quantity": 70
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92296"
+  },
+  "id": "7790070413017",
+  "name": "Gelatina Frutilla Exquisita",
+  "description": "x15u",
+  "list1": 126,
+  "list2": 97,
+  "list3": 90.48,
+  "cost": 77.34,
+  "category": "COM",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92297"
+  },
+  "id": "6970113883446",
+  "name": "Gelatina Frutal Jelly",
+  "description": "x30u",
+  "list1": 70,
+  "list2": 54,
+  "list3": 50,
+  "cost": 45,
+  "category": "GOL",
+  "quantity": 30
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92298"
+  },
+  "id": "7790070413055",
+  "name": "Gelatina Frambuesa Exquisita",
+  "description": "x15u",
+  "list1": 118,
+  "list2": 91.21,
+  "list3": 87.7,
+  "cost": 77.34,
+  "category": "COM",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92299"
+  },
+  "id": "7790070413079",
+  "name": "Gelatina Durazno Exquisita",
+  "description": "x15u",
+  "list1": 118,
+  "list2": 91.21,
+  "list3": 87.7,
+  "cost": 77.34,
+  "category": "COM",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9229a"
+  },
+  "id": "7790070413031",
+  "name": "Gelatina Cereza Exquisita",
+  "description": "x15u",
+  "list1": 118,
+  "list2": 91.21,
+  "list3": 87.7,
+  "cost": 82.26,
+  "category": "COM",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9229b"
+  },
+  "id": "6922235800450",
+  "name": "Gelatina Bolsa",
+  "description": "x100u",
+  "list1": 30,
+  "list2": 20,
+  "list3": 20,
+  "cost": 17.5,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9229c"
+  },
+  "id": "7795522000876",
+  "name": "Garrapiñada Latin",
+  "description": "x60gr",
+  "list1": 70,
+  "list2": 53.98,
+  "list3": 49.48,
+  "cost": 44.99,
+  "category": "GOL",
+  "quantity": 35
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9229d"
+  },
+  "id": "Garrapiñada",
+  "name": "Garrapiñada Agus",
+  "description": "x15u",
+  "list1": 370,
+  "list2": 370,
+  "list3": 370,
+  "cost": 310.96,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9229e"
+  },
+  "id": "7798113151261",
+  "name": "Gallleta Dale Frutilla",
+  "description": "x81gr",
+  "list1": 55.82,
+  "list2": 42.94,
+  "list3": 39.36,
+  "cost": 34.71,
+  "category": "GALL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9229f"
+  },
+  "id": "Gallinita",
+  "name": "Gallinita",
+  "description": "x30u",
+  "list1": 390,
+  "list2": 390,
+  "list3": 390,
+  "cost": 325,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a0"
+  },
+  "id": "7798128002145",
+  "name": "Galletta Cachafaz cacao miel organica x170gr",
+  "description": "x170gr",
+  "list1": 252,
+  "list2": 252,
+  "list3": 252,
+  "cost": 157.13,
+  "category": "GALL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a1"
+  },
+  "id": "7790040131194",
+  "name": "Galleta Vocacion clasica x3",
+  "description": "x348gr  x12un bulto",
+  "list1": 290,
+  "list2": 267.04,
+  "list3": 245.34,
+  "cost": 222.6,
+  "category": "GALL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a2"
+  },
+  "id": "7790040131187",
+  "name": "Galleta Vocacion clasica ind ",
+  "description": "x141gr",
+  "list1": 126.08,
+  "list2": 96.99,
+  "list3": 88.91,
+  "cost": 80.67,
+  "category": "GALL",
+  "quantity": 56
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a3"
+  },
+  "id": "7790040133211",
+  "name": "Galleta Vocacion ac ind ",
+  "description": "x145gr",
+  "list1": 130,
+  "list2": 109.56,
+  "list3": 100.43,
+  "cost": 87.62,
+  "category": "GALL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a4"
+  },
+  "id": "7790040133228",
+  "name": "Galleta Vocacion Acaramelada x3 x435gr",
+  "description": "10 un xbulto",
+  "list1": 324,
+  "list2": 304.25,
+  "list3": 278.8,
+  "cost": 252.96,
+  "category": "GALL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a5"
+  },
+  "id": "7790628102684",
+  "name": "Galleta Vainillas Maury",
+  "description": "x36u bulto",
+  "list1": 98.8,
+  "list2": 76,
+  "list3": 69.68,
+  "cost": 63.55,
+  "category": "GALL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a6"
+  },
+  "id": "7791787000040",
+  "name": "Galleta Trio Pepa Extra Familiar",
+  "description": "x500gr",
+  "list1": 250,
+  "list2": 234,
+  "list3": 220,
+  "cost": 200.55,
+  "category": "GALL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a7"
+  },
+  "id": "7791787000422",
+  "name": "Galleta Trio Pepa",
+  "description": "x200gr",
+  "list1": 120,
+  "list2": 95.19,
+  "list3": 89.68,
+  "cost": 85.61,
+  "category": "GALL",
+  "quantity": 21
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a8"
+  },
+  "id": "Traviata",
+  "name": "Galleta Traviata xunidad",
+  "description": "unidad",
+  "list1": 98,
+  "list2": 75.33,
+  "list3": 75.33,
+  "cost": 63.04,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922a9"
+  },
+  "id": "7480040872202",
+  "name": "Galleta Traviata x3 x303gr",
+  "description": "x16un bulto",
+  "list1": 293,
+  "list2": 257.48,
+  "list3": 247.57,
+  "cost": 224.62,
+  "category": "GALL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922aa"
+  },
+  "id": "7790040676800",
+  "name": "Galleta Tortita Black",
+  "description": "x125gr",
+  "list1": 190,
+  "list2": 144.16,
+  "list3": 138.62,
+  "cost": 126.02,
+  "category": "GALL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ab"
+  },
+  "id": "7798073620074",
+  "name": "Galleta Tincho x60un",
+  "description": "x20gr",
+  "list1": 22,
+  "list2": 16.23,
+  "list3": 15.6,
+  "cost": 13.65,
+  "category": "GALL",
+  "quantity": 60
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ac"
+  },
+  "id": "7622201504090",
+  "name": "Galleta Terrabusi",
+  "description": "x390gr",
+  "list1": 310,
+  "list2": 310,
+  "list3": 310,
+  "cost": 200,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ad"
+  },
+  "id": "7790040138896",
+  "name": "Galleta Surtido Bagley",
+  "description": "x21u",
+  "list1": 370,
+  "list2": 338,
+  "list3": 325,
+  "cost": 269,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ae"
+  },
+  "id": "7798048730395",
+  "name": "Galleta Surtida",
+  "description": "x300gr",
+  "list1": 190,
+  "list2": 156.94,
+  "list3": 150.9,
+  "cost": 133.04,
+  "category": "GALL",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922af"
+  },
+  "id": "7790040133488",
+  "name": "Galleta Sonrisa",
+  "description": "x108gr",
+  "list1": 190,
+  "list2": 152.83,
+  "list3": 140.09,
+  "cost": 122,
+  "category": "GALL",
+  "quantity": 16
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b0"
+  },
+  "id": "7798141972470",
+  "name": "Galleta Salvado La Providencia",
+  "description": "x120gr",
+  "list1": 82.8,
+  "list2": 63.7,
+  "list3": 61.25,
+  "cost": 54.01,
+  "category": "GALL",
+  "quantity": 48
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b1"
+  },
+  "id": "Salvado",
+  "name": "Galleta Salvado Bagley xunidad",
+  "description": "unidad",
+  "list1": 175,
+  "list2": 134.66,
+  "list3": 134,
+  "cost": 112.46,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b2"
+  },
+  "id": "7790040136243",
+  "name": "Galleta Salvado Bagley",
+  "description": "pack x3",
+  "list1": 489,
+  "list2": 411.46,
+  "list3": 395.63,
+  "cost": 337.39,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b3"
+  },
+  "id": "7790040930506",
+  "name": "Galleta Rumba",
+  "description": "x112gr",
+  "list1": 190,
+  "list2": 152.83,
+  "list3": 140.09,
+  "cost": 122.22,
+  "category": "GALL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b4"
+  },
+  "id": "7790040132689",
+  "name": "Galleta Porteñitas x139gr",
+  "list1": 211,
+  "list2": 162.71,
+  "list3": 149.18,
+  "cost": 113.97,
+  "category": "GALL",
+  "quantity": 14
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b5"
+  },
+  "id": "7798113151322",
+  "name": "Galleta Pindy",
+  "description": "x3 306gr",
+  "list1": 171,
+  "list2": 132,
+  "list3": 127,
+  "cost": 104.04,
+  "category": "GALL",
+  "quantity": 14
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b6"
+  },
+  "id": "7622201503260",
+  "name": "Galleta Pepito",
+  "description": "x119gr",
+  "list1": 220,
+  "list2": 174,
+  "list3": 169,
+  "cost": 131.2,
+  "category": "GALL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b7"
+  },
+  "id": "7792180139351",
+  "name": "Galleta Paseo Salvado",
+  "description": "x250gr",
+  "list1": 166,
+  "list2": 166,
+  "list3": 162,
+  "cost": 146.89,
+  "category": "GALL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b8"
+  },
+  "id": "7792180139375",
+  "name": "Galleta Paseo 5 Semillas",
+  "description": "x250gr",
+  "list1": 166,
+  "list2": 166,
+  "list3": 162,
+  "cost": 134.9,
+  "category": "COM",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922b9"
+  },
+  "id": "7622201685669",
+  "name": "Galleta Oreo ind",
+  "description": "x43gr",
+  "list1": 70,
+  "list2": 70,
+  "list3": 66.5,
+  "cost": 60.5,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ba"
+  },
+  "id": "7622201685652",
+  "name": "Galleta Oreo Pack x4",
+  "description": "pack x4u",
+  "list1": 285,
+  "list2": 285,
+  "list3": 285,
+  "cost": 220,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922bb"
+  },
+  "id": "7622201806286",
+  "name": "Galleta Oreo",
+  "description": "x118gr",
+  "list1": 220,
+  "list2": 174,
+  "list3": 169,
+  "cost": 152.14,
+  "category": "GALL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922bc"
+  },
+  "id": "77903501",
+  "name": "Galleta Opera",
+  "description": "x55gr",
+  "list1": 132.28,
+  "list2": 101.76,
+  "list3": 93.29,
+  "cost": 81.39,
+  "category": "GALL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922bd"
+  },
+  "id": "7793123160272",
+  "name": "Galleta Oblita gde ftlla",
+  "description": "x100gr",
+  "list1": 111.2,
+  "list2": 85.53,
+  "list3": 82.25,
+  "cost": 74.77,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922be"
+  },
+  "id": "7793123160296",
+  "name": "Galleta Oblita gde chocol",
+  "description": "x100gr",
+  "list1": 111.2,
+  "list2": 85.53,
+  "list3": 82.25,
+  "cost": 74.77,
+  "category": "GALL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922bf"
+  },
+  "id": "7793123160265",
+  "name": "Galleta Oblita gde  vainilla",
+  "description": "x100gr",
+  "list1": 111.2,
+  "list2": 85.53,
+  "list3": 82.25,
+  "cost": 74.77,
+  "category": "GALL",
+  "quantity": 19
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c0"
+  },
+  "id": "7790040120013",
+  "name": "Galleta Mini Polvorita Vainilla",
+  "description": "x147gr",
+  "list1": 123.27,
+  "list2": 94.83,
+  "list3": 87.98,
+  "cost": 79.99,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c1"
+  },
+  "id": "7790040124417",
+  "name": "Galleta Mini Polvorita Limon",
+  "description": "x147gr",
+  "list1": 123.4,
+  "list2": 94.93,
+  "list3": 87.98,
+  "cost": 79.99,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c2"
+  },
+  "id": "7790040120044",
+  "name": "Galleta Mini Polvorita Frutilla",
+  "description": "x147gr",
+  "list1": 123.27,
+  "list2": 94.83,
+  "list3": 87.98,
+  "cost": 79.99,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c3"
+  },
+  "id": "7790040120006",
+  "name": "Galleta Mini Polvorita Chocolate",
+  "description": "x147gr",
+  "list1": 123.27,
+  "list2": 94.83,
+  "list3": 87.98,
+  "cost": 79.99,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c4"
+  },
+  "id": "7622300836610",
+  "name": "Galleta Mini Pepito",
+  "description": "x50gr",
+  "list1": 120,
+  "list2": 91.93,
+  "list3": 88.39,
+  "cost": 65.9,
+  "category": "GALL",
+  "quantity": 54
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c5"
+  },
+  "id": "7622300841461",
+  "name": "Galleta Mini Oreo",
+  "description": "x50gr",
+  "list1": 120,
+  "list2": 91.93,
+  "list3": 88.39,
+  "cost": 80.36,
+  "category": "GALL",
+  "quantity": 54
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c6"
+  },
+  "id": "7622300819095",
+  "name": "Galleta Mini Oreo",
+  "description": "x600gr",
+  "list1": 518,
+  "list2": 518,
+  "list3": 518,
+  "cost": 439.4,
+  "category": "GALL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c7"
+  },
+  "id": "7798126072201",
+  "name": "Galleta Mini Crunchips",
+  "description": "x120gr",
+  "list1": 160,
+  "list2": 124.27,
+  "list3": 122.2,
+  "cost": 108.63,
+  "category": "GALL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c8"
+  },
+  "id": "7790040932708",
+  "name": "Galleta Merengada",
+  "description": "x93gr",
+  "list1": 180,
+  "list2": 139.56,
+  "list3": 134.44,
+  "cost": 122.22,
+  "category": "GALL",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922c9"
+  },
+  "id": "7790040930209",
+  "name": "Galleta Melliza",
+  "description": "112gr",
+  "list1": 190,
+  "list2": 152.83,
+  "list3": 140.09,
+  "cost": 85.87,
+  "category": "GALL",
+  "quantity": 13
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ca"
+  },
+  "id": "7622300829728",
+  "name": "Galleta Melba",
+  "description": "x120gr",
+  "list1": 206,
+  "list2": 158.66,
+  "list3": 152.55,
+  "cost": 138.69,
+  "category": "GALL",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922cb"
+  },
+  "id": "7790040133693",
+  "name": "Galleta Mediatarde x3",
+  "description": "x14u",
+  "list1": 189,
+  "list2": 151.77,
+  "list3": 145.93,
+  "cost": 132.41,
+  "category": "GALL",
+  "quantity": 14
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922cc"
+  },
+  "id": "7790628000058",
+  "name": "Galleta Maury sin sal",
+  "description": "pack x3",
+  "list1": 280,
+  "list2": 280,
+  "list3": 280,
+  "cost": 239.87,
+  "category": "GALL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922cd"
+  },
+  "id": "7790628102769",
+  "name": "Galleta Maria Elena",
+  "description": "x30u",
+  "list1": 556.8,
+  "list2": 556.8,
+  "list3": 520,
+  "cost": 464.7,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ce"
+  },
+  "id": "7790628102622",
+  "name": "Galleta Maria Elena",
+  "description": "x135gr",
+  "list1": 144,
+  "list2": 110.8,
+  "list3": 106.48,
+  "cost": 97.8,
+  "category": "GALL",
+  "quantity": 19
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922cf"
+  },
+  "id": "7797675001373",
+  "name": "Galleta Mantekitas",
+  "description": "x170gr",
+  "list1": 107,
+  "list2": 82.7,
+  "list3": 79.51,
+  "cost": 70.12,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d0"
+  },
+  "id": "7790040137837",
+  "name": "Galleta Mana Liviana Vainilla",
+  "description": "x145gr",
+  "list1": 182,
+  "list2": 140,
+  "list3": 129.07,
+  "cost": 112.61,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d1"
+  },
+  "id": "7622300829643",
+  "name": "Galleta Lincoln",
+  "description": "x153gr",
+  "list1": 197,
+  "list2": 151.69,
+  "list3": 139.05,
+  "cost": 126.41,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d2"
+  },
+  "id": "7790040136076",
+  "name": "Galleta Hogareña ",
+  "description": "pack x3",
+  "list1": 442.14,
+  "list2": 442.14,
+  "list3": 425.12,
+  "cost": 351.27,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d3"
+  },
+  "id": "7790070411341",
+  "name": "Galleta Gallo Bizcochos de arroz",
+  "description": "50gr",
+  "list1": 70,
+  "list2": 70,
+  "list3": 70,
+  "cost": 57.22,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d4"
+  },
+  "id": "7790045824893",
+  "name": "Galleta Frutigram Chip de Choc",
+  "description": "x250gr",
+  "list1": 220,
+  "list2": 189.9,
+  "list3": 189.9,
+  "cost": 152.92,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d5"
+  },
+  "id": "7790045001188",
+  "name": "Galleta Frutigram Avena con pasas",
+  "description": "x250gr",
+  "list1": 220,
+  "list2": 189.9,
+  "list3": 189.9,
+  "cost": 151.6,
+  "category": "GALL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d6"
+  },
+  "id": "7790040132610",
+  "name": "Galleta Formis x102gr ",
+  "description": "var sabores",
+  "list1": 193.05,
+  "list2": 148.5,
+  "list3": 136.12,
+  "cost": 107.96,
+  "category": "GALL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d7"
+  },
+  "id": "7790628102714",
+  "name": "Galleta Fauna",
+  "description": "x150gr",
+  "list1": 120,
+  "list2": 96.6,
+  "list3": 92.73,
+  "cost": 84.3,
+  "category": "GALL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d8"
+  },
+  "id": "7790040138902",
+  "name": "Galleta Diversion",
+  "description": "x400gr x21u bulto",
+  "list1": 340,
+  "list2": 264,
+  "list3": 244,
+  "cost": 199,
+  "category": "GALL",
+  "quantity": 33
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922d9"
+  },
+  "id": "7790040138919",
+  "name": "Galleta Desfile",
+  "description": "x398gr",
+  "list1": 299,
+  "list2": 231.59,
+  "list3": 222.68,
+  "cost": 202.44,
+  "category": "GALL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922da"
+  },
+  "id": "7798113151278",
+  "name": "Galleta Dale Vainilla",
+  "description": "x81gr",
+  "list1": 55.82,
+  "list2": 42.94,
+  "list3": 39.36,
+  "cost": 34.71,
+  "category": "GALL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922db"
+  },
+  "id": "7798113151599",
+  "name": "Galleta Dale Maria Liviana Vainilla",
+  "description": "x145gr",
+  "list1": 91,
+  "list2": 70.3,
+  "list3": 65.2,
+  "cost": 59.27,
+  "category": "GALL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922dc"
+  },
+  "id": "7798113152268",
+  "name": "Galleta Dale Maria",
+  "description": "pack x3",
+  "list1": 230,
+  "list2": 177,
+  "list3": 162.45,
+  "cost": 143.25,
+  "category": "GALL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922dd"
+  },
+  "id": "7798113152206",
+  "name": "Galleta Dale Black",
+  "description": "x115gr",
+  "list1": 139.9,
+  "list2": 107.62,
+  "list3": 95.68,
+  "cost": 86.99,
+  "category": "GALL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922de"
+  },
+  "id": "7790040377806",
+  "name": "Galleta Criollitas x3 original",
+  "list1": 267,
+  "list2": 220.18,
+  "list3": 212,
+  "cost": 180.1,
+  "category": "GALL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922df"
+  },
+  "id": "7790040929807",
+  "name": "Galleta Coquita",
+  "description": "x170gr",
+  "list1": 230,
+  "list2": 178,
+  "list3": 171.32,
+  "cost": 155.75,
+  "category": "GALL",
+  "quantity": 11
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e0"
+  },
+  "id": "7790040116955",
+  "name": "Galleta Cofler Block",
+  "description": "x124gr",
+  "list1": 220,
+  "list2": 168,
+  "list3": 159,
+  "cost": 140.48,
+  "category": "GALL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e1"
+  },
+  "id": "7622210691835",
+  "name": "Galleta Club Social Jamon ",
+  "description": "x6u",
+  "list1": 349,
+  "list2": 268.5,
+  "list3": 258,
+  "cost": 234.78,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e2"
+  },
+  "id": "7622300990701",
+  "name": "Galleta Club Social Clasica x6un pack",
+  "description": "x144gr",
+  "list1": 342,
+  "list2": 263.44,
+  "list3": 253,
+  "cost": 230.28,
+  "category": "GALL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e3"
+  },
+  "id": "7790040929906",
+  "name": "Galleta Chocolina",
+  "description": "x170gr",
+  "list1": 236,
+  "list2": 181.63,
+  "list3": 176.6,
+  "cost": 160.39,
+  "category": "GALL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e4"
+  },
+  "id": "7790040128026",
+  "name": "Galleta Chocolina",
+  "description": "x100gr",
+  "list1": 145.1,
+  "list2": 111.62,
+  "list3": 102.32,
+  "cost": 89.27,
+  "category": "GALL",
+  "quantity": 13
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e5"
+  },
+  "id": "7798128002138",
+  "name": "Galleta Cachafaz  Avena y  Miel organicas",
+  "description": "x170gr",
+  "list1": 252,
+  "list2": 252,
+  "list3": 252,
+  "cost": 157.13,
+  "category": "GALL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e6"
+  },
+  "id": "7790040139282",
+  "name": "Galleta Amor",
+  "description": "x112gr",
+  "list1": 190,
+  "list2": 152.83,
+  "list3": 140.09,
+  "cost": 122.22,
+  "category": "GALL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e7"
+  },
+  "id": "7792180139788",
+  "name": "Galleta 9 de Oro Azucarados",
+  "description": "x219gr",
+  "list1": 160,
+  "list2": 124.62,
+  "list3": 115.6,
+  "cost": 87.99,
+  "category": "GALL",
+  "quantity": 14
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e8"
+  },
+  "id": "7792180139726",
+  "name": "Galleta 9 de Oro",
+  "description": "Agridulces x215gr x24u",
+  "list1": 160,
+  "list2": 124.62,
+  "list3": 115.6,
+  "cost": 87.99,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922e9"
+  },
+  "id": "7792180139719",
+  "name": "Galleta 9 de Oro",
+  "description": "Clasicas x215gr x24u",
+  "list1": 160,
+  "list2": 124.62,
+  "list3": 115.6,
+  "cost": 98.17,
+  "category": "GALL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ea"
+  },
+  "id": "7 Senillas",
+  "name": "Galleta 7 Semillas ind",
+  "description": "ind",
+  "list1": 150,
+  "list2": 116.2,
+  "list3": 116.2,
+  "cost": 97.67,
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922eb"
+  },
+  "id": "7793123160289",
+  "name": "Gaalleta Oblita gde dleche",
+  "description": "x100gr",
+  "list1": 111.2,
+  "list2": 85.3,
+  "list3": 82.25,
+  "cost": 74.77,
+  "category": "GALL",
+  "quantity": 14
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ec"
+  },
+  "id": "7790580130633",
+  "name": "Frutigelatin Truitos",
+  "description": "x12u",
+  "list1": 50,
+  "list2": 32.61,
+  "list3": 29.89,
+  "cost": 21.96,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ed"
+  },
+  "id": "7790580130923",
+  "name": "Frutigelatin Saurios",
+  "description": "x12u",
+  "list1": 50,
+  "list2": 32.61,
+  "list3": 29.89,
+  "cost": 27.14,
+  "category": "GOL",
+  "quantity": 60
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ee"
+  },
+  "id": "7798060221062",
+  "name": "Frititas Tira",
+  "description": "x25gr x5u",
+  "list1": 246,
+  "list2": 246,
+  "list3": 243,
+  "cost": 215,
+  "category": "SNACK",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ef"
+  },
+  "id": "Papa Fritita",
+  "name": "Fritita Individual",
+  "list1": 60,
+  "list2": 60,
+  "list3": 60,
+  "cost": 39.82,
+  "category": "SNACK",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f0"
+  },
+  "id": "7790380028185",
+  "name": "Flynn Paff XXL 2",
+  "description": "x24",
+  "list1": 50,
+  "list2": 39.09,
+  "list3": 37.59,
+  "cost": 33.14,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f1"
+  },
+  "id": "7790380028109",
+  "name": "Flynn Paff XXL",
+  "description": "X24u",
+  "list1": 50,
+  "list2": 39.09,
+  "list3": 37.59,
+  "cost": 34.17,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f2"
+  },
+  "id": "7790070413116",
+  "name": "Flan Vainilla Exquisita",
+  "description": "x15u",
+  "list1": 90,
+  "list2": 60.14,
+  "list3": 55.6,
+  "cost": 48.61,
+  "category": "COM",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f3"
+  },
+  "id": "7790070413130",
+  "name": "Flan Dulce de Leche Exquisita",
+  "description": "x15u",
+  "list1": 90,
+  "list2": 60.14,
+  "list3": 55.6,
+  "cost": 48.61,
+  "category": "COM",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f4"
+  },
+  "id": "7790580223205",
+  "name": "Fizz Acido",
+  "description": "x48u  x5 tira",
+  "list1": 40,
+  "list2": 24.5,
+  "list3": 24.5,
+  "cost": 20.41,
+  "category": "GOL",
+  "quantity": 33
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f5"
+  },
+  "id": "8018190030839",
+  "name": "Figuritas Mundial",
+  "list1": 200,
+  "list2": 200,
+  "list3": 200,
+  "cost": 145,
+  "category": "VAR",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f6"
+  },
+  "id": "7622300724245",
+  "name": "Fideos Tirabuzon Terrabusi",
+  "description": "x500gr",
+  "list1": 98,
+  "list2": 98,
+  "list3": 98,
+  "cost": 90,
+  "category": "COM",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f7"
+  },
+  "id": "7797470003121",
+  "name": "Fideos Entrefino Marolio",
+  "description": "x500gr",
+  "list1": 76,
+  "list2": 76,
+  "list3": 76,
+  "cost": 69.9,
+  "category": "COM",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f8"
+  },
+  "id": "Chupetin Paleta",
+  "name": "Espiral ",
+  "description": "x10u",
+  "list1": 560,
+  "list2": 560,
+  "list3": 560,
+  "cost": 501,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922f9"
+  },
+  "id": "7791113002571",
+  "name": "Esencia de Vainilla",
+  "description": "x120ml",
+  "list1": 75,
+  "list2": 75,
+  "list3": 75,
+  "cost": 60.61,
+  "category": "COM",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922fa"
+  },
+  "id": "Encendedor Taiko",
+  "name": "Encendedor ",
+  "description": "x50u",
+  "list1": 70,
+  "list2": 70,
+  "list3": 70,
+  "cost": 42,
+  "category": "VAR",
+  "quantity": 34
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922fb"
+  },
+  "id": "7790036948188",
+  "name": "Edulcorante Sidiet",
+  "description": "x200ml",
+  "list1": 189.3,
+  "list2": 189.3,
+  "list3": 181,
+  "cost": 164.9,
+  "category": "COM",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922fc"
+  },
+  "id": "7797470000854",
+  "name": "Durazno en Lata",
+  "description": "x485gr",
+  "list1": 356,
+  "list2": 356,
+  "list3": 356,
+  "cost": 299.9,
+  "category": "COM",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922fd"
+  },
+  "id": "7790696000301",
+  "name": "Durazno Abeto",
+  "description": "x820gr",
+  "list1": 387.9,
+  "list2": 387.9,
+  "list3": 372.9,
+  "cost": 289,
+  "category": "COM",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922fe"
+  },
+  "id": "7790244941414",
+  "name": "Dulce de Leche San Ignacio",
+  "description": "x410gr",
+  "list1": 232,
+  "list2": 232,
+  "list3": 223.47,
+  "cost": 203.16,
+  "category": "COM",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f922ff"
+  },
+  "id": "7896383053169",
+  "name": "Ducrem Leche Condensada ",
+  "description": "x36u",
+  "list1": 660,
+  "list2": 660,
+  "list3": 620,
+  "cost": 560.17,
+  "category": "GOL",
+  "quantity": 58
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92300"
+  },
+  "id": "619878702156",
+  "name": "Dragon Ball Lego",
+  "list1": 500,
+  "list2": 500,
+  "list3": 500,
+  "cost": 375,
+  "category": "VAR",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92301"
+  },
+  "id": "77907509",
+  "name": "Dos Corazones",
+  "description": "x20u",
+  "list1": 100,
+  "list2": 78.99,
+  "list3": 74.99,
+  "cost": 66.2,
+  "category": "CHOC",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92302"
+  },
+  "id": "7795735000328",
+  "name": "Don Satur Salado",
+  "description": "x200gr",
+  "list1": 160,
+  "list2": 120.39,
+  "list3": 120.39,
+  "cost": 110.36,
+  "category": "GALL",
+  "quantity": 30
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92303"
+  },
+  "id": "7795735000335",
+  "name": "Don Satur Dulce",
+  "description": "x200gr",
+  "list1": 160,
+  "list2": 120.39,
+  "list3": 120.39,
+  "cost": 110.36,
+  "category": "GALL",
+  "quantity": 30
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92304"
+  },
+  "id": "7794595301033",
+  "name": "Dispenser Bluper",
+  "list1": 1380,
+  "list2": 1380,
+  "list3": 1380,
+  "cost": 1076.9,
+  "category": "VAR",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92305"
+  },
+  "id": "7793123000370",
+  "name": "Cubanito Oblita",
+  "description": "x48u",
+  "list1": 462.9,
+  "list2": 462.9,
+  "list3": 462.9,
+  "cost": 404.64,
+  "category": "CHOC",
+  "quantity": 63
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92306"
+  },
+  "id": "Conito de Arroz",
+  "name": "Conito de Arroz Julito",
+  "description": "x30u",
+  "list1": 430,
+  "list2": 430,
+  "list3": 430,
+  "cost": 358.8,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92307"
+  },
+  "id": "7790580056001",
+  "name": "Confitado Sugus",
+  "description": "x50gr",
+  "list1": 103,
+  "list2": 97.04,
+  "list3": 93.91,
+  "cost": 84.83,
+  "category": "GOL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92308"
+  },
+  "id": "7790380016748",
+  "name": "Confitado Acido Extremo Flynn Paff ",
+  "description": "x50gr",
+  "list1": 141,
+  "list2": 108.68,
+  "list3": 104.5,
+  "cost": 95,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92309"
+  },
+  "id": "77953124",
+  "name": "Cofler Block Negro",
+  "description": "x38gr  x20u",
+  "list1": 152,
+  "list2": 117.03,
+  "list3": 110,
+  "cost": 96.78,
+  "category": "CHOC",
+  "quantity": 43
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9230a"
+  },
+  "id": "77981912",
+  "name": "Cofler Block Blanco",
+  "description": "x38gr  x20u",
+  "list1": 152,
+  "list2": 117.03,
+  "list3": 110.93,
+  "cost": 96.78,
+  "category": "CHOC",
+  "quantity": 23
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9230b"
+  },
+  "id": "77922120",
+  "name": "Cofler Block",
+  "description": "x110gr",
+  "list1": 280.18,
+  "list2": 280.18,
+  "list3": 261.33,
+  "cost": 237.58,
+  "category": "CHOC",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9230c"
+  },
+  "id": "7790580105013",
+  "name": "Cofler Block",
+  "description": "x170gr",
+  "list1": 530,
+  "list2": 530,
+  "list3": 530,
+  "cost": 465.3,
+  "category": "CHOC",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9230d"
+  },
+  "id": "7798023696869",
+  "name": "Coctel de 5 Frutas Lata",
+  "description": "x12u",
+  "list1": 486,
+  "list2": 486,
+  "list3": 460,
+  "cost": 361,
+  "category": "COM",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9230e"
+  },
+  "id": "7790895002656",
+  "name": "Coca Cola x375ml",
+  "description": "x6u",
+  "list1": 150,
+  "list2": 112.8,
+  "list3": 108.5,
+  "cost": 98.62,
+  "category": "BEB",
+  "quantity": 78
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9230f"
+  },
+  "id": "7622210692245",
+  "name": "Club Social Jamon individual",
+  "description": "unidad",
+  "list1": 60,
+  "list2": 44.8,
+  "list3": 43.04,
+  "cost": 39.13,
+  "category": "GALL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92310"
+  },
+  "id": "7790580123857",
+  "name": "Chupetín Evolution Acido",
+  "description": " 432gr x24u",
+  "list1": 610,
+  "list2": 610,
+  "list3": 581,
+  "cost": 480,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92311"
+  },
+  "id": "7790580137854",
+  "name": "Chupetin Yogus",
+  "description": "x50u",
+  "list1": 701,
+  "list2": 701,
+  "list3": 701,
+  "cost": 612.92,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92312"
+  },
+  "id": "Chupetin Topo",
+  "name": "Chupetin Topo Matias",
+  "description": "x30u",
+  "list1": 478.62,
+  "list2": 478.62,
+  "list3": 478.62,
+  "cost": 418.38,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92313"
+  },
+  "id": "7896624202592",
+  "name": "Chupetin Spring Pop Minions",
+  "description": "x25u",
+  "list1": 80,
+  "list2": 60.47,
+  "list3": 58.14,
+  "cost": 52.86,
+  "category": "GOL",
+  "quantity": 25
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92314"
+  },
+  "id": "7798040462898",
+  "name": "Chupetin Spring Pop Jurassic World",
+  "description": "x25u",
+  "list1": 80,
+  "list2": 60.47,
+  "list3": 58.14,
+  "cost": 52.86,
+  "category": "GOL",
+  "quantity": 25
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92315"
+  },
+  "id": "834960000455",
+  "name": "Chupetin Princess ",
+  "description": "x400gr",
+  "list1": 385,
+  "list2": 385,
+  "list3": 385,
+  "cost": 330,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92316"
+  },
+  "id": "7792860007949",
+  "name": "Chupetin Pito Pito",
+  "description": "x24u",
+  "list1": 655,
+  "list2": 655,
+  "list3": 630,
+  "cost": 573,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92317"
+  },
+  "id": "7792860001114",
+  "name": "Chupetin Pico Dulce",
+  "description": "x48u",
+  "list1": 40,
+  "list2": 30.94,
+  "list3": 28.36,
+  "cost": 25.01,
+  "category": "GOL",
+  "quantity": 48
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92318"
+  },
+  "id": "7792860000452",
+  "name": "Chupetin Pelotita Lheritier",
+  "description": "x50u",
+  "list1": 362,
+  "list2": 362,
+  "list3": 348,
+  "cost": 317.09,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92319"
+  },
+  "id": "7792860008120",
+  "name": "Chupetin Pelotita Dulce de Leche",
+  "description": "x50u",
+  "list1": 362,
+  "list2": 362,
+  "list3": 348,
+  "cost": 286.21,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9231a"
+  },
+  "id": "7792860008373",
+  "name": "Chupetin Pelotita Argentina",
+  "description": "x50u",
+  "list1": 362,
+  "list2": 362,
+  "list3": 348,
+  "cost": 317.09,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9231b"
+  },
+  "id": "7798040592328",
+  "name": "Chupetin Patita Tatto en la Lengua",
+  "description": "x100u",
+  "list1": 534.9,
+  "list2": 534.9,
+  "list3": 522,
+  "cost": 445.75,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9231c"
+  },
+  "id": "7891151037419",
+  "name": "Chupetin Maxxi",
+  "description": "x24u",
+  "list1": 621.5,
+  "list2": 621.5,
+  "list3": 621.5,
+  "cost": 518.26,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9231d"
+  },
+  "id": "7792354001637",
+  "name": "Chupetin Marengo Mini Paleta Pinta Lengua",
+  "description": "x50u",
+  "list1": 542.47,
+  "list2": 542.47,
+  "list3": 521.6,
+  "cost": 459.96,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9231e"
+  },
+  "id": "7792354004812",
+  "name": "Chupetin Marengo Emojis Acido",
+  "description": "x50u",
+  "list1": 407,
+  "list2": 407,
+  "list3": 407,
+  "cost": 390,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9231f"
+  },
+  "id": "7792354001644",
+  "name": "Chupetin Marengo Corazon Pintalengua",
+  "description": "x50u",
+  "list1": 542.47,
+  "list2": 542.47,
+  "list3": 521.6,
+  "cost": 459.96,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92320"
+  },
+  "id": "Lapiz Labial",
+  "name": "Chupetin Labial",
+  "description": "x30u",
+  "list1": 55,
+  "list2": 55,
+  "list3": 55,
+  "cost": 46.66,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92321"
+  },
+  "id": "7790380029816",
+  "name": "Chupetin Flynn Paff Uva",
+  "description": "x24u",
+  "list1": 536,
+  "list2": 536,
+  "list3": 536,
+  "cost": 454.53,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92322"
+  },
+  "id": "7790380029618",
+  "name": "Chupetin Flynn Paff Tutti Frutti",
+  "description": "x24u",
+  "list1": 536,
+  "list2": 536,
+  "list3": 536,
+  "cost": 454.53,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92323"
+  },
+  "id": "7790380029687",
+  "name": "Chupetin Flynn Paff Sandia",
+  "description": "x24u",
+  "list1": 536,
+  "list2": 536,
+  "list3": 536,
+  "cost": 454.53,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92324"
+  },
+  "id": "7790580118037",
+  "name": "Chupetin Evolution Rojo",
+  "description": "x24u",
+  "list1": 610,
+  "list2": 610,
+  "list3": 581,
+  "cost": 529,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92325"
+  },
+  "id": "7790580118129",
+  "name": "Chupetin Evolution Pintalengua",
+  "description": "X24u",
+  "list1": 610,
+  "list2": 610,
+  "list3": 581,
+  "cost": 462.42,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92326"
+  },
+  "id": "7790580136178",
+  "name": "Chupetin Evolution Halloween",
+  "description": "x24u",
+  "list1": 610,
+  "list2": 610,
+  "list3": 581,
+  "cost": 450.26,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92327"
+  },
+  "id": "7790580116811",
+  "name": "Chupetin Evolution Frutal",
+  "description": "x24u",
+  "list1": 610,
+  "list2": 610,
+  "list3": 581,
+  "cost": 462.42,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92328"
+  },
+  "id": "7790580132828",
+  "name": "Chupetin Evolution Cereza",
+  "description": "x10u",
+  "list1": 321,
+  "list2": 321,
+  "list3": 293,
+  "cost": 253.72,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92329"
+  },
+  "id": "7790580118099",
+  "name": "Chupetin Evolution Blueberry",
+  "description": "x24u",
+  "list1": 610,
+  "list2": 610,
+  "list3": 581,
+  "cost": 529,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9232a"
+  },
+  "id": "7798130951776",
+  "name": "Chupetin Crazy Pop Uva",
+  "description": "Tira x5u",
+  "list1": 110,
+  "list2": 84.02,
+  "list3": 80.79,
+  "cost": 45.9,
+  "category": "GOL",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9232b"
+  },
+  "id": "7798130951783",
+  "name": "Chupetin Crazy Pop Frutilla",
+  "description": "Tira x5u",
+  "list1": 110,
+  "list2": 84.02,
+  "list3": 80.79,
+  "cost": 73.45,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9232c"
+  },
+  "id": "7798186030326",
+  "name": "Chupetin Crazy",
+  "description": "x10u",
+  "list1": 80,
+  "list2": 58.66,
+  "list3": 56.4,
+  "cost": 51.28,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9232d"
+  },
+  "id": "7790580126018",
+  "name": "Chupetin Cosmo Mega",
+  "description": "x24u",
+  "list1": 484,
+  "list2": 484,
+  "list3": 444.25,
+  "cost": 403.07,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9232e"
+  },
+  "id": "7790580790301",
+  "name": "Chupetin Cosmo Frutal",
+  "description": "x40u",
+  "list1": 497,
+  "list2": 497,
+  "list3": 478.5,
+  "cost": 406.52,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9232f"
+  },
+  "id": "Chupetin Chupete",
+  "name": "Chupetin Chupete Matias",
+  "description": "x30u",
+  "list1": 478.62,
+  "list2": 478.62,
+  "list3": 478.62,
+  "cost": 418.38,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92330"
+  },
+  "id": "7792860002135",
+  "name": "Chupetin Cebollita",
+  "description": "x40u",
+  "list1": 229,
+  "list2": 229,
+  "list3": 220,
+  "cost": 200.48,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92331"
+  },
+  "id": "7792860008359",
+  "name": "Chupetin Bola Loca Max",
+  "description": "x24u x18gr",
+  "list1": 490,
+  "list2": 490,
+  "list3": 490,
+  "cost": 151.43,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92332"
+  },
+  "id": "Paleta Navidad",
+  "name": "Chupetin Arbolito",
+  "description": "x10u",
+  "list1": 285,
+  "list2": 285,
+  "list3": 285,
+  "cost": 218.95,
+  "category": "GOL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92333"
+  },
+  "id": "7796579408592",
+  "name": "Chupetin Amasado Trompito",
+  "description": "x10u",
+  "list1": 441.68,
+  "list2": 441.68,
+  "list3": 441.68,
+  "cost": 386.09,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92334"
+  },
+  "id": "6970113883187",
+  "name": "Chupete Chupon ",
+  "description": "x30u",
+  "list1": 80,
+  "list2": 60,
+  "list3": 55,
+  "cost": 50,
+  "category": "GOL",
+  "quantity": 30
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92335"
+  },
+  "id": "77958594",
+  "name": "Chocolatin Misky Negro",
+  "description": "x20u",
+  "list1": 30,
+  "list2": 22.8,
+  "list3": 22.8,
+  "cost": 19.81,
+  "category": "CHOC",
+  "quantity": 62
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92336"
+  },
+  "id": "77969354",
+  "name": "Chocolatin Georgalos Negro",
+  "description": "x40u",
+  "list1": 38,
+  "list2": 29.03,
+  "list3": 28.25,
+  "cost": 25.38,
+  "category": "CHOC",
+  "quantity": 40
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92337"
+  },
+  "id": "77969361",
+  "name": "Chocolatin Georgalos Blanco",
+  "description": "x40u",
+  "list1": 38,
+  "list2": 29.03,
+  "list3": 28.25,
+  "cost": 25.38,
+  "category": "CHOC",
+  "quantity": 40
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92338"
+  },
+  "id": "7793984409565",
+  "name": "Chocofan Vainilla",
+  "description": "x18u",
+  "list1": 60,
+  "list2": 47,
+  "list3": 47,
+  "cost": 41.48,
+  "category": "CHOC",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92339"
+  },
+  "id": "7793984409572",
+  "name": "Chocofan Chocolate",
+  "description": "x18u",
+  "list1": 60,
+  "list2": 47,
+  "list3": 47,
+  "cost": 41.48,
+  "category": "CHOC",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9233a"
+  },
+  "id": "Chizoindividual",
+  "name": "Chizo ind",
+  "list1": 70,
+  "list2": 70,
+  "list3": 70,
+  "cost": 39.6,
+  "category": "SNACK",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9233b"
+  },
+  "id": "Chizo 500gr",
+  "name": "Chizo Patito x500gr",
+  "list1": 520,
+  "list2": 520,
+  "list3": 480,
+  "cost": 400,
+  "category": "SNACK",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9233c"
+  },
+  "id": "Chizo",
+  "name": "Chizo Patito",
+  "description": "x30u",
+  "list1": 540,
+  "list2": 540,
+  "list3": 490,
+  "cost": 359.52,
+  "category": "SNACK",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9233d"
+  },
+  "id": "7798058370253",
+  "name": "Chizo Naranja Zingara",
+  "description": "x1kg",
+  "list1": 723,
+  "list2": 690,
+  "list3": 690,
+  "cost": 603,
+  "category": "SNACK",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9233e"
+  },
+  "id": "77916426",
+  "name": "Chicle Topline Verde",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.24,
+  "list3": 35.97,
+  "cost": 32.65,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9233f"
+  },
+  "id": "7790580146405",
+  "name": "Chicle Topline Sandia ",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.24,
+  "list3": 35.97,
+  "cost": 32.65,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92340"
+  },
+  "id": "77916396",
+  "name": "Chicle Topline Negro",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.24,
+  "list3": 35.97,
+  "cost": 32.65,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92341"
+  },
+  "id": "77916389",
+  "name": "Chicle Topline Frutilla",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 39.24,
+  "list3": 35.97,
+  "cost": 32.65,
+  "category": "GOL",
+  "quantity": 40
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92342"
+  },
+  "id": "77931764",
+  "name": "Chicle Topline 7 Verde",
+  "description": "x16u",
+  "list1": 112,
+  "list2": 86.84,
+  "list3": 83.5,
+  "cost": 62.01,
+  "category": "GOL",
+  "quantity": 17
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92343"
+  },
+  "id": "77948496",
+  "name": "Chicle Topline 7 Uva",
+  "description": "x16u",
+  "list1": 112,
+  "list2": 86.84,
+  "list3": 83.5,
+  "cost": 75.91,
+  "category": "GOL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92344"
+  },
+  "id": "77948588",
+  "name": "Chicle Topline 7 Sandia",
+  "description": "x16u",
+  "list1": 112,
+  "list2": 86.84,
+  "list3": 83.5,
+  "cost": 75.91,
+  "category": "GOL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92345"
+  },
+  "id": "77951113",
+  "name": "Chicle Topline 7 Rojo",
+  "description": " x16u",
+  "list1": 112,
+  "list2": 86.84,
+  "list3": 83.5,
+  "cost": 75.91,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92346"
+  },
+  "id": "77939753",
+  "name": "Chicle Topline 7 Negro",
+  "description": "x16u",
+  "list1": 112,
+  "list2": 86.84,
+  "list3": 83.5,
+  "cost": 75.91,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92347"
+  },
+  "id": "7891151032605",
+  "name": "Chicle TNT ",
+  "description": "x40u",
+  "list1": 423.22,
+  "list2": 423.22,
+  "list3": 423.22,
+  "cost": 325.56,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92348"
+  },
+  "id": "7861008514073",
+  "name": "Chicle Super Hiper Acido ",
+  "description": "x36u",
+  "list1": 2100,
+  "list2": 2100,
+  "list3": 2100,
+  "cost": 1700,
+  "category": "GOL",
+  "quantity": 26
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92349"
+  },
+  "id": "7798040590164",
+  "name": "Chicle Recargado Tutti Frutti",
+  "description": "x50u",
+  "list1": 370,
+  "list2": 370,
+  "list3": 356.6,
+  "cost": 324.2,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9234a"
+  },
+  "id": "7798040594919",
+  "name": "Chicle Recargado Mundial",
+  "description": "x50u",
+  "list1": 370,
+  "list2": 370,
+  "list3": 356.6,
+  "cost": 324.2,
+  "category": "GOL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9234b"
+  },
+  "id": "7798040590171",
+  "name": "Chicle Recargado Menta",
+  "description": "x50u",
+  "list1": 370,
+  "list2": 370,
+  "list3": 356.6,
+  "cost": 324.2,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9234c"
+  },
+  "id": "7798040594773",
+  "name": "Chicle Recargado Cola",
+  "description": "x50u",
+  "list1": 370,
+  "list2": 370,
+  "list3": 356.6,
+  "cost": 324.2,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9234d"
+  },
+  "id": "7798040590195",
+  "name": "Chicle Recargado Banana",
+  "description": "x50u",
+  "list1": 370,
+  "list2": 370,
+  "list3": 356.6,
+  "cost": 324.2,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9234e"
+  },
+  "id": "7790580130046",
+  "name": "Chicle Poosh Frutis",
+  "description": "x45u",
+  "list1": 335,
+  "list2": 335,
+  "list3": 335,
+  "cost": 258,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9234f"
+  },
+  "id": "7792860002708",
+  "name": "Chicle Plop Uva",
+  "description": "x100u",
+  "list1": 386,
+  "list2": 386,
+  "list3": 354,
+  "cost": 322,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92350"
+  },
+  "id": "7792860009912",
+  "name": "Chicle Plop Tutti Frutti",
+  "description": "x100u",
+  "list1": 386,
+  "list2": 386,
+  "list3": 354,
+  "cost": 301.1,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92351"
+  },
+  "id": "7792860000902",
+  "name": "Chicle Plop Menta",
+  "description": "x100u",
+  "list1": 386,
+  "list2": 386,
+  "list3": 354,
+  "cost": 301.1,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92352"
+  },
+  "id": "7792860000926",
+  "name": "Chicle Plop Banana",
+  "description": "x100u",
+  "list1": 386,
+  "list2": 386,
+  "list3": 354,
+  "cost": 322,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92353"
+  },
+  "id": "2954515111110",
+  "name": "Chicle Lush ",
+  "description": "x1300u",
+  "list1": 973,
+  "list2": 973,
+  "list3": 973,
+  "cost": 836,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92354"
+  },
+  "id": "7798040594599",
+  "name": "Chicle Gumballs Redonditos ",
+  "description": "x18u",
+  "list1": 100,
+  "list2": 80,
+  "list3": 80,
+  "cost": 70,
+  "category": "GOL",
+  "quantity": 23
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92355"
+  },
+  "id": "7790580139612",
+  "name": "Chicle Flics Tutti Frutti Hallowen",
+  "description": "x12u",
+  "list1": 62.36,
+  "list2": 47.97,
+  "list3": 43.97,
+  "cost": 39.98,
+  "category": "GOL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92356"
+  },
+  "id": "7798040592373",
+  "name": "Chicle Fierita Tutti Frutti",
+  "description": "x100u",
+  "list1": 374,
+  "list2": 374,
+  "list3": 360,
+  "cost": 327.34,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92357"
+  },
+  "id": "7798040590188",
+  "name": "Chicle Fierita Recargado Frutilla",
+  "description": "x50u",
+  "list1": 370,
+  "list2": 370,
+  "list3": 356.6,
+  "cost": 324.2,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92358"
+  },
+  "id": "7798040592380",
+  "name": "Chicle Fierita Menta",
+  "description": "x100u",
+  "list1": 374,
+  "list2": 374,
+  "list3": 360,
+  "cost": 327.64,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92359"
+  },
+  "id": "7798040590140",
+  "name": "Chicle Fierita Frutilla",
+  "description": " x100u",
+  "list1": 374,
+  "list2": 374,
+  "list3": 360,
+  "cost": 327.64,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9235a"
+  },
+  "id": "7798040592410",
+  "name": "Chicle Fierita Banana",
+  "description": "x100u",
+  "list1": 374,
+  "list2": 374,
+  "list3": 360,
+  "cost": 327.64,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9235b"
+  },
+  "id": "7891151033237",
+  "name": "Chicle Buzzybol",
+  "description": "x40u",
+  "list1": 220,
+  "list2": 220,
+  "list3": 220,
+  "cost": 185.36,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9235c"
+  },
+  "id": "7622210965134",
+  "name": "Chicle Bubbaloo Uva",
+  "description": "300g x60u",
+  "list1": 652,
+  "list2": 652,
+  "list3": 627,
+  "cost": 570,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9235d"
+  },
+  "id": "7622210964458",
+  "name": "Chicle Bubbaloo Tutti",
+  "description": "300g x60u",
+  "list1": 652,
+  "list2": 652,
+  "list3": 627,
+  "cost": 483.01,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9235e"
+  },
+  "id": "7622210964397",
+  "name": "Chicle Bubbaloo Menta",
+  "description": "300gr x60u",
+  "list1": 652,
+  "list2": 652,
+  "list3": 627,
+  "cost": 483.01,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9235f"
+  },
+  "id": "77969071",
+  "name": "Chicle Beldent Verde ",
+  "description": "x20u",
+  "list1": 95,
+  "list2": 73.69,
+  "list3": 67.55,
+  "cost": 61.41,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92360"
+  },
+  "id": "77969088",
+  "name": "Chicle Beldent Negro",
+  "description": "x20u",
+  "list1": 95,
+  "list2": 73.69,
+  "list3": 67.55,
+  "cost": 61.41,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92361"
+  },
+  "id": "77969095",
+  "name": "Chicle Beldent Mentol Celeste",
+  "description": "x20u",
+  "list1": 95,
+  "list2": 73.69,
+  "list3": 67.55,
+  "cost": 53.28,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92362"
+  },
+  "id": "77969101",
+  "name": "Chicle Beldent Globo",
+  "description": "x20u",
+  "list1": 95,
+  "list2": 73.69,
+  "list3": 67.55,
+  "cost": 53.28,
+  "category": "GOL",
+  "quantity": 25
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92363"
+  },
+  "id": "77969118",
+  "name": "Chicle Beldent Frutilla",
+  "description": "x20u",
+  "list1": 95,
+  "list2": 73.69,
+  "list3": 67.55,
+  "cost": 61.41,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92364"
+  },
+  "id": "7622201803070",
+  "name": "Chicle Bazooka Tutti",
+  "description": "x120",
+  "list1": 10,
+  "list2": 7.65,
+  "list3": 7.35,
+  "cost": 6.69,
+  "category": "GOL",
+  "quantity": 120
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92365"
+  },
+  "id": "77975379",
+  "name": "Chicle Alka Menta",
+  "description": "x20u",
+  "list1": 30,
+  "list2": 19.5,
+  "list3": 17.6,
+  "cost": 14.69,
+  "category": "GOL",
+  "quantity": 17
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92366"
+  },
+  "id": "77975362",
+  "name": "Chicle Alka Frutilla",
+  "description": "x20u",
+  "list1": 30,
+  "list2": 19.5,
+  "list3": 17.6,
+  "cost": 15.1,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92367"
+  },
+  "id": "7790045001607",
+  "name": "Cereal Skarchitos",
+  "description": "x240gr",
+  "list1": 270,
+  "list2": 218,
+  "list3": 211,
+  "cost": 197.9,
+  "category": "COM",
+  "quantity": 16
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92368"
+  },
+  "id": "7509546073453",
+  "name": "Cepillo de Dientes Colgate Kids",
+  "description": "pack x2",
+  "list1": 235,
+  "list2": 235,
+  "list3": 235,
+  "cost": 181,
+  "category": "VAR",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92369"
+  },
+  "id": "7509546031828",
+  "name": "Cepillo de Dientes Colgate",
+  "description": "pack x2",
+  "list1": 262.87,
+  "list2": 262.87,
+  "list3": 262.87,
+  "cost": 202.21,
+  "category": "VAR",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9236a"
+  },
+  "id": "7790580130954",
+  "name": "Celofan Misky Negro",
+  "description": "x8gr x20u",
+  "list1": 40,
+  "list2": 28.9,
+  "list3": 27.11,
+  "cost": 22.46,
+  "category": "CHOC",
+  "quantity": 80
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9236b"
+  },
+  "id": "7790580130947",
+  "name": "Celofan Misky Blanco",
+  "description": "x8gr x20u",
+  "list1": 40,
+  "list2": 28.6,
+  "list3": 27.11,
+  "cost": 22.46,
+  "category": "CHOC",
+  "quantity": 80
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9236c"
+  },
+  "id": "7790580612917",
+  "name": "Celofan Misky",
+  "description": "Blanco x25gr x30u",
+  "list1": 124.28,
+  "list2": 95.6,
+  "list3": 91.92,
+  "cost": 57.5,
+  "category": "CHOC",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9236d"
+  },
+  "id": "7790580612719",
+  "name": "Celofan Misky",
+  "description": "Negro x25gr x30u",
+  "list1": 124.28,
+  "list2": 95.6,
+  "list3": 91.92,
+  "cost": 57.5,
+  "category": "CHOC",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9236e"
+  },
+  "id": "7790580328016",
+  "name": "Celofan Misky",
+  "description": "Blanco x50gr x21u",
+  "list1": 178,
+  "list2": 137.09,
+  "list3": 131.82,
+  "cost": 99.71,
+  "category": "CHOC",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9236f"
+  },
+  "id": "7790580327910",
+  "name": "Celofan Misky",
+  "description": "Negro x50gr x21u",
+  "list1": 178,
+  "list2": 137.82,
+  "list3": 131.82,
+  "cost": 99.71,
+  "category": "CHOC",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92370"
+  },
+  "id": "1154578588886",
+  "name": "Carta Mundial",
+  "list1": 90,
+  "list2": 70,
+  "list3": 70,
+  "cost": 60,
+  "category": "VAR",
+  "quantity": 26
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92371"
+  },
+  "id": "caramelos sueltos",
+  "name": "Caramelos ",
+  "description": "3x20",
+  "list1": 20,
+  "list2": 20,
+  "list3": 20,
+  "cost": 11.38,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92372"
+  },
+  "id": "7891151039215",
+  "name": "Caramelo TNT Surtido Acido",
+  "description": "x500gr",
+  "list1": 657,
+  "list2": 657,
+  "list3": 620,
+  "cost": 548.04,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92373"
+  },
+  "id": "7790580009601",
+  "name": "Caramelo Sugus Max Uva",
+  "description": "x70u",
+  "list1": 612.36,
+  "list2": 612.36,
+  "list3": 588.81,
+  "cost": 500.22,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92374"
+  },
+  "id": "7790580010508",
+  "name": "Caramelo Sugus Max Tutti Frutti",
+  "description": "x70u",
+  "list1": 612.36,
+  "list2": 612.36,
+  "list3": 588.81,
+  "cost": 500.22,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92375"
+  },
+  "id": "7790580139704",
+  "name": "Caramelo Sugus Max Halloween",
+  "description": "x100u",
+  "list1": 852.62,
+  "list2": 852.62,
+  "list3": 832,
+  "cost": 640.38,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92376"
+  },
+  "id": "7790580214104",
+  "name": "Caramelo Rodaja Acido Arcor",
+  "description": "x930gr",
+  "list1": 1190,
+  "list2": 1190,
+  "list3": 962,
+  "cost": 875.19,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92377"
+  },
+  "id": "7792860009097",
+  "name": "Caramelo Pico Dulce Tubicolor",
+  "description": "x500gr",
+  "list1": 508.18,
+  "list2": 508.18,
+  "list3": 480,
+  "cost": 410.78,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92378"
+  },
+  "id": "7792860003033",
+  "name": "Caramelo Pico Dulce",
+  "description": "x150gr",
+  "list1": 270,
+  "list2": 270,
+  "list3": 260,
+  "cost": 236.65,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92379"
+  },
+  "id": "7622201802592",
+  "name": "Caramelo Palito de la Selva",
+  "description": "x600gr",
+  "list1": 856.36,
+  "list2": 856.36,
+  "list3": 856.36,
+  "cost": 755.66,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9237a"
+  },
+  "id": "7790580138417",
+  "name": "Caramelo Mogul Palote ",
+  "description": "x71u",
+  "list1": 594,
+  "list2": 594,
+  "list3": 572,
+  "cost": 450,
+  "category": "GOL",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9237b"
+  },
+  "id": "7790580104412",
+  "name": "Caramelo Misky Toffees Leche",
+  "description": "x648gr",
+  "list1": 614.9,
+  "list2": 614.9,
+  "list3": 610.9,
+  "cost": 536.91,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9237c"
+  },
+  "id": "7790580104405",
+  "name": "Caramelo Misky Toffees",
+  "description": "x108u",
+  "list1": 614.9,
+  "list2": 614.9,
+  "list3": 610.9,
+  "cost": 536.91,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9237d"
+  },
+  "id": "7790580155100",
+  "name": "Caramelo Misky Relleno Frutal",
+  "description": "x810gr",
+  "list1": 671.3,
+  "list2": 671.3,
+  "list3": 616,
+  "cost": 559.34,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9237e"
+  },
+  "id": "7790580118365",
+  "name": "Caramelo Misky Cherry",
+  "description": "405gr x90u",
+  "list1": 444.54,
+  "list2": 444.54,
+  "list3": 444.54,
+  "cost": 370.45,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9237f"
+  },
+  "id": "7790580178109",
+  "name": "Caramelo Misky",
+  "description": "x242u  x800gr",
+  "list1": 606,
+  "list2": 606,
+  "list3": 555.5,
+  "cost": 459.24,
+  "category": "GOL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92380"
+  },
+  "id": "7790580119829",
+  "name": "Caramelo Miel",
+  "description": "675gr x135u",
+  "list1": 644,
+  "list2": 644,
+  "list3": 616,
+  "cost": 537.92,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92381"
+  },
+  "id": "7790580118372",
+  "name": "Caramelo Menta Cristal Misky",
+  "description": "x180u",
+  "list1": 778,
+  "list2": 778,
+  "list3": 743.2,
+  "cost": 648.36,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92382"
+  },
+  "id": "7790580118273",
+  "name": "Caramelo Menta Chocolate",
+  "description": "x715gr",
+  "list1": 973,
+  "list2": 973,
+  "list3": 857,
+  "cost": 779.54,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92383"
+  },
+  "id": "7622300867973",
+  "name": "Caramelo Media Hora",
+  "description": "x800gr",
+  "list1": 1344.34,
+  "list2": 1344.34,
+  "list3": 1232,
+  "cost": 1120.29,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92384"
+  },
+  "id": "7792354004676",
+  "name": "Caramelo Marengo Titas Acidas Halloween",
+  "description": "x454gr",
+  "list1": 670.8,
+  "list2": 670.8,
+  "list3": 670.8,
+  "cost": 159.2,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92385"
+  },
+  "id": "7792354004621",
+  "name": "Caramelo Marengo Dulce de Leche",
+  "description": "x75u",
+  "list1": 588,
+  "list2": 588,
+  "list3": 588,
+  "cost": 490.5,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92386"
+  },
+  "id": "7798040594650",
+  "name": "Caramelo Granjero",
+  "description": "x100u",
+  "list1": 333,
+  "list2": 333,
+  "list3": 310,
+  "cost": 278.13,
+  "category": "GOL",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92387"
+  },
+  "id": "7896731021222",
+  "name": "Caramelo Good Smile",
+  "description": "x105u",
+  "list1": 212,
+  "list2": 212,
+  "list3": 212,
+  "cost": 171.97,
+  "category": "GOL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92388"
+  },
+  "id": "7790580134242",
+  "name": "Caramelo Gajito Frutal",
+  "description": "x140gr",
+  "list1": 196.8,
+  "list2": 196.8,
+  "list3": 190.2,
+  "cost": 166.82,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92389"
+  },
+  "id": "7790380002666",
+  "name": "Caramelo Flynn Paff Uva",
+  "description": "560gr x70u",
+  "list1": 705,
+  "list2": 705,
+  "list3": 672,
+  "cost": 523.09,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9238a"
+  },
+  "id": "7790380002734",
+  "name": "Caramelo Flynn Paff Tutti",
+  "description": "560gr x70u",
+  "list1": 705,
+  "list2": 705,
+  "list3": 672,
+  "cost": 588.15,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9238b"
+  },
+  "id": "7790380428237",
+  "name": "Caramelo Flynn Paff Limon y Berry",
+  "description": "560gr x70u",
+  "list1": 705,
+  "list2": 705,
+  "list3": 672,
+  "cost": 523.09,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9238c"
+  },
+  "id": "7790380002659",
+  "name": "Caramelo Flynn Paff Banana",
+  "description": "560gr x70u",
+  "list1": 705,
+  "list2": 705,
+  "list3": 672,
+  "cost": 523.09,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9238d"
+  },
+  "id": "7790580126940",
+  "name": "Caramelo Fizz Halloween",
+  "description": "x494gr",
+  "list1": 791.26,
+  "list2": 791.26,
+  "list3": 725.25,
+  "cost": 659.39,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9238e"
+  },
+  "id": "7798040592045",
+  "name": "Caramelo Fierita Cremosito",
+  "description": "x100u x300gr",
+  "list1": 333,
+  "list2": 333,
+  "list3": 310,
+  "cost": 278.13,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9238f"
+  },
+  "id": "7798040594643",
+  "name": "Caramelo Fierita Circus",
+  "description": "x100u",
+  "list1": 220,
+  "list2": 220,
+  "list3": 220,
+  "cost": 180,
+  "category": "GOL",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92390"
+  },
+  "id": "7792222002827",
+  "name": "Caramelo D.R.F Nar",
+  "description": "12u  x23gr",
+  "list1": 50,
+  "list2": 38.9,
+  "list3": 37.4,
+  "cost": 33.99,
+  "category": "GOL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92391"
+  },
+  "id": "7792222002780",
+  "name": "Caramelo D.R.F Mentol",
+  "description": "x12u  23gr",
+  "list1": 50,
+  "list2": 38.9,
+  "list3": 37.4,
+  "cost": 29.18,
+  "category": "GOL",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92392"
+  },
+  "id": "7792222002865",
+  "name": "Caramelo D.R.F Menta",
+  "description": "x12u",
+  "list1": 50,
+  "list2": 38.9,
+  "list3": 37.4,
+  "cost": 29.18,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92393"
+  },
+  "id": "7792222002803",
+  "name": "Caramelo D.R.F Limon",
+  "description": "x12u x23gr",
+  "list1": 50,
+  "list2": 38.9,
+  "list3": 37.4,
+  "cost": 33.99,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92394"
+  },
+  "id": "7798186032993",
+  "name": "Caramelo D.R.F Frutos Rojos",
+  "description": "x12u x23gr",
+  "list1": 50,
+  "list2": 38.9,
+  "list3": 37.4,
+  "cost": 33.99,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92395"
+  },
+  "id": "7798186032979",
+  "name": "Caramelo D.R.F Citrico",
+  "description": "12u  x23gr",
+  "list1": 50,
+  "list2": 38.9,
+  "list3": 37.4,
+  "cost": 33.99,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92396"
+  },
+  "id": "7792222002841",
+  "name": "Caramelo D.R.F Anis",
+  "description": "x12u x23gr",
+  "list1": 50,
+  "list2": 38.9,
+  "list3": 37.4,
+  "cost": 29.18,
+  "category": "GOL",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92397"
+  },
+  "id": "7790580134099",
+  "name": "Caramelo Butter Toffees",
+  "description": "Avellana 648gr x108u",
+  "list1": 991.85,
+  "list2": 990,
+  "list3": 952,
+  "cost": 634.2,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92398"
+  },
+  "id": "7790580118587",
+  "name": "Caramelo Butter Toffees",
+  "description": "Cafe x822gr x137u",
+  "list1": 991.85,
+  "list2": 990,
+  "list3": 952,
+  "cost": 634.2,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92399"
+  },
+  "id": "7798186031743",
+  "name": "Caramelo Bulldog Acido",
+  "description": "x100u x700gr",
+  "list1": 438,
+  "list2": 438,
+  "list3": 422.21,
+  "cost": 383.83,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9239a"
+  },
+  "id": "7790580134235",
+  "name": "Caramelo Arcor Relleno Frutal",
+  "description": "x140gr",
+  "list1": 196.8,
+  "list2": 196.8,
+  "list3": 190.2,
+  "cost": 166.82,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9239b"
+  },
+  "id": "7790580134228",
+  "name": "Caramelo Arcor Menta Chocolate",
+  "description": "x140gr",
+  "list1": 196.8,
+  "list2": 196.8,
+  "list3": 190.2,
+  "cost": 166.82,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9239c"
+  },
+  "id": "7790580121440",
+  "name": "Caramelo Arcor Halloween Huesos",
+  "description": "x450gr",
+  "list1": 602.38,
+  "list2": 602.38,
+  "list3": 560,
+  "cost": 486.93,
+  "category": "GOL",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9239d"
+  },
+  "id": "7790580470906",
+  "name": "Caramelo Arcor Gajito",
+  "description": "x485gr",
+  "list1": 505,
+  "list2": 505,
+  "list3": 481.9,
+  "cost": 455.63,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9239e"
+  },
+  "id": "77958983",
+  "name": "Caramelo Alka Verde",
+  "description": "x12u",
+  "list1": 50,
+  "list2": 31.16,
+  "list3": 31.16,
+  "cost": 25.96,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f9239f"
+  },
+  "id": "77959003",
+  "name": "Caramelo Alka Negro",
+  "description": "x12u",
+  "list1": 50,
+  "list2": 31.16,
+  "list3": 31.16,
+  "cost": 24.96,
+  "category": "GOL",
+  "quantity": 29
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a0"
+  },
+  "id": "7794612002769",
+  "name": "Caramelo Alka Negro",
+  "description": "x800gr",
+  "list1": 858,
+  "list2": 858,
+  "list3": 819.88,
+  "cost": 715.26,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a1"
+  },
+  "id": "77958990",
+  "name": "Caramelo Alka Cherry",
+  "description": "x12u",
+  "list1": 50,
+  "list2": 31.16,
+  "list3": 31.16,
+  "cost": 22.69,
+  "category": "GOL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a2"
+  },
+  "id": "7794612002486",
+  "name": "Caramelo Alka Cherry",
+  "description": "x800gr",
+  "list1": 858,
+  "list2": 858,
+  "list3": 819.88,
+  "cost": 715.26,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a3"
+  },
+  "id": "7794612100953",
+  "name": "Caramelo Alka Acido",
+  "description": "x800gr",
+  "list1": 858,
+  "list2": 858,
+  "list3": 819.88,
+  "cost": 715.26,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a4"
+  },
+  "id": "Cajita",
+  "name": "Cajita MDF",
+  "description": "Chica",
+  "list1": 240,
+  "list2": 240,
+  "list3": 240,
+  "cost": 180,
+  "category": "VAR",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a5"
+  },
+  "id": "7791122000179",
+  "name": "Cafe Velez",
+  "description": "x100u",
+  "list1": 20,
+  "list2": 11.87,
+  "list3": 11.87,
+  "cost": 9.28,
+  "category": "BEB",
+  "quantity": 180
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a6"
+  },
+  "id": "7790150079904",
+  "name": "Cafe La Virginia",
+  "description": "x20u",
+  "list1": 30,
+  "list2": 19,
+  "list3": 30,
+  "cost": 17.49,
+  "category": "BEB",
+  "quantity": 35
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a7"
+  },
+  "id": "7792360070153",
+  "name": "Cafe Bonafide ",
+  "description": "x20u",
+  "list1": 380,
+  "list2": 380,
+  "list3": 380,
+  "cost": 307.54,
+  "category": "BEB",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a8"
+  },
+  "id": "7798186034164",
+  "name": "Bulldog Mix Limon Extreme",
+  "description": "x12u",
+  "list1": 60,
+  "list2": 48.97,
+  "list3": 47.09,
+  "cost": 42.81,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923a9"
+  },
+  "id": "7798186030548",
+  "name": "Bulldog Mix",
+  "description": "Manz con Sand x12u",
+  "list1": 60,
+  "list2": 48.97,
+  "list3": 47.09,
+  "cost": 42.81,
+  "category": "GOL",
+  "quantity": 72
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923aa"
+  },
+  "id": "7798186030531",
+  "name": "Bulldog Mix",
+  "description": "Tutti con Limon x12u",
+  "list1": 60,
+  "list2": 48.97,
+  "list3": 47.09,
+  "cost": 42.81,
+  "category": "GOL",
+  "quantity": 36
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ab"
+  },
+  "id": "7798178801378",
+  "name": "Buffys Frutal Palito",
+  "description": "x450gr",
+  "list1": 761.92,
+  "list2": 761.92,
+  "list3": 710.6,
+  "cost": 575.9,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ac"
+  },
+  "id": "7798178801606",
+  "name": "Buffy Frutal",
+  "description": "x200gr x50u",
+  "list1": 502,
+  "list2": 502,
+  "list3": 502,
+  "cost": 418.35,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ad"
+  },
+  "id": "7798178801354",
+  "name": "Buffy Fresa Palito",
+  "description": "x450gr",
+  "list1": 761.92,
+  "list2": 761.92,
+  "list3": 710.6,
+  "cost": 575.9,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ae"
+  },
+  "id": "7798178801620",
+  "name": "Buffy Fresa",
+  "description": "x200gr x50u",
+  "list1": 502,
+  "list2": 502,
+  "list3": 502,
+  "cost": 418.35,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923af"
+  },
+  "id": "7798178802191",
+  "name": "Buffy Chocochips",
+  "description": "x400gr",
+  "list1": 893.4,
+  "list2": 893.4,
+  "list3": 819,
+  "cost": 744.55,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b0"
+  },
+  "id": "7790077000524",
+  "name": "Budin Pozo",
+  "description": "Chips Choc x170gr",
+  "list1": 119.65,
+  "list2": 108.6,
+  "list3": 99.5,
+  "cost": 90.5,
+  "category": "COM",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b1"
+  },
+  "id": "7790077000487",
+  "name": "Budin Pozo",
+  "description": "Marmolado x170gr",
+  "list1": 119.65,
+  "list2": 108.6,
+  "list3": 99.5,
+  "cost": 90.5,
+  "category": "COM",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b2"
+  },
+  "id": "7790077000425",
+  "name": "Budin Pozo",
+  "description": "Vainilla x170gr",
+  "list1": 119.65,
+  "list2": 108.6,
+  "list3": 99.5,
+  "cost": 90.5,
+  "category": "COM",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b3"
+  },
+  "id": "Broches",
+  "name": "Broches de Madera",
+  "description": "x20u",
+  "list1": 250,
+  "list2": 250,
+  "list3": 250,
+  "cost": 170,
+  "category": "VAR",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b4"
+  },
+  "id": "6965300916182",
+  "name": "Botellita",
+  "description": "x30",
+  "list1": 70,
+  "list2": 60,
+  "list3": 42,
+  "cost": 35,
+  "category": "GOL",
+  "quantity": 28
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b5"
+  },
+  "id": "7790580346508",
+  "name": "Bon o bon Oblea ",
+  "description": "x20u",
+  "list1": 110,
+  "list2": 86.45,
+  "list3": 80.35,
+  "cost": 73.05,
+  "category": "CHOC",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b6"
+  },
+  "id": "7896066767017",
+  "name": "Bombón Bel",
+  "description": "450gr x50u",
+  "list1": 812,
+  "list2": 812,
+  "list3": 781,
+  "cost": 710,
+  "category": "CHOC",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b7"
+  },
+  "id": "7622201420048",
+  "name": "Bombones Milka Oreo",
+  "description": "x13u",
+  "list1": 604.39,
+  "list2": 604.39,
+  "list3": 581.15,
+  "cost": 528.32,
+  "category": "CHOC",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b8"
+  },
+  "id": "7793123000042",
+  "name": "Bombon Oblibom Negro",
+  "description": "x30u",
+  "list1": 40,
+  "list2": 25.65,
+  "list3": 24.67,
+  "cost": 22.43,
+  "category": "CHOC",
+  "quantity": 30
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923b9"
+  },
+  "id": "77958921",
+  "name": "Bombon Negro",
+  "description": "x30u",
+  "list1": 60,
+  "list2": 43.44,
+  "list3": 41.77,
+  "cost": 34.96,
+  "category": "GOL",
+  "quantity": 55
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ba"
+  },
+  "id": "7898024396994",
+  "name": "Bombon Ferrero Rocher",
+  "description": "x12u",
+  "list1": 1176.9,
+  "list2": 1176.9,
+  "list3": 1176.9,
+  "cost": 980.75,
+  "category": "CHOC",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923bb"
+  },
+  "id": "7861002900117",
+  "name": "Bombon Ferrero Rocher",
+  "description": "x8u",
+  "list1": 804.57,
+  "list2": 804.57,
+  "list3": 804.57,
+  "cost": 670.48,
+  "category": "CHOC",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923bc"
+  },
+  "id": "77961815",
+  "name": "Bombon Blanco",
+  "description": "x30u",
+  "list1": 60,
+  "list2": 43.44,
+  "list3": 41.77,
+  "cost": 37.98,
+  "category": "GOL",
+  "quantity": 65
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923bd"
+  },
+  "id": "7790580119126",
+  "name": "Bombon Arcor Surtido",
+  "description": "x255gr",
+  "list1": 780,
+  "list2": 780,
+  "list3": 780,
+  "cost": 596,
+  "category": "CHOC",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923be"
+  },
+  "id": "7790580131388",
+  "name": "Bombon Arcor Seleccion",
+  "description": "x228.6 gr",
+  "list1": 780,
+  "list2": 780,
+  "list3": 780,
+  "cost": 583.6,
+  "category": "CHOC",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923bf"
+  },
+  "id": "7790580131371",
+  "name": "Bombon Arcor Kiosco en Casa",
+  "description": "x246gr",
+  "list1": 780,
+  "list2": 780,
+  "list3": 780,
+  "cost": 583.6,
+  "category": "CHOC",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c0"
+  },
+  "id": "7796851805132",
+  "name": "Bolillas",
+  "description": "x100u",
+  "list1": 650,
+  "list2": 650,
+  "list3": 650,
+  "cost": 400,
+  "category": "VAR",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c1"
+  },
+  "id": "7792860002456",
+  "name": "Bocadito Lheritier Dulce de Leche",
+  "description": "x52",
+  "list1": 20,
+  "list2": 10.6,
+  "list3": 10.6,
+  "cost": 8.49,
+  "category": "GOL",
+  "quantity": 48
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c2"
+  },
+  "id": "7790070410139",
+  "name": "Bizcochuelo Exiquisita Vainilla",
+  "description": "x540gr",
+  "list1": 333.46,
+  "list2": 333.46,
+  "list3": 320.6,
+  "cost": 282.74,
+  "category": "COM",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c3"
+  },
+  "id": "7790580131760",
+  "name": "Bizcochuelo Chocolate Caja Arcor ",
+  "description": "x480gr",
+  "list1": 468,
+  "list2": 468,
+  "list3": 468,
+  "cost": 390.7,
+  "category": "COM",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c4"
+  },
+  "id": "7798149233528",
+  "name": "Bengala Princesa",
+  "description": "x4u",
+  "list1": 100,
+  "list2": 100,
+  "list3": 100,
+  "cost": 50,
+  "category": "VAR",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c5"
+  },
+  "id": "7798149233573",
+  "name": "Bengala Ben 10",
+  "description": "x4u",
+  "list1": 100,
+  "list2": 100,
+  "list3": 100,
+  "cost": 50,
+  "category": "VAR",
+  "quantity": 8
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c6"
+  },
+  "id": "2800001634543",
+  "name": "Bengala",
+  "description": "x4u",
+  "list1": 100,
+  "list2": 100,
+  "list3": 100,
+  "cost": 74.75,
+  "category": "VAR",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c7"
+  },
+  "id": "7622201421496",
+  "name": "Beldent Infinit Menta",
+  "description": "x15u",
+  "list1": 100,
+  "list2": 74.05,
+  "list3": 67.88,
+  "cost": 61.71,
+  "category": "GOL",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c8"
+  },
+  "id": "7622201448325",
+  "name": "Beldent Infinit Blueberry",
+  "description": "x15u",
+  "list1": 100,
+  "list2": 74.05,
+  "list3": 67.88,
+  "cost": 61.71,
+  "category": "GOL",
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923c9"
+  },
+  "id": "7791113003981",
+  "name": "Baño Repostero",
+  "description": "xkg",
+  "list1": 626,
+  "list2": 626,
+  "list3": 626,
+  "cost": 476.07,
+  "category": "CHOC",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ca"
+  },
+  "id": "7790380008286",
+  "name": "Barrita Cereal Flow Light Manzana",
+  "description": "x20u",
+  "list1": 90,
+  "list2": 70,
+  "list3": 65.2,
+  "cost": 59.28,
+  "category": "SNACK",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923cb"
+  },
+  "id": "7790380020172",
+  "name": "Barrita Cereal Flow Light Frutos del Bosque",
+  "description": "x20u",
+  "list1": 90,
+  "list2": 70,
+  "list3": 65.2,
+  "cost": 59.28,
+  "category": "SNACK",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923cc"
+  },
+  "id": "7790380416197",
+  "name": "Barrita Cereal Flow Frutos del Bosque Yogurt",
+  "description": "x20u",
+  "list1": 90,
+  "list2": 70,
+  "list3": 65.2,
+  "cost": 59.28,
+  "category": "SNACK",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923cd"
+  },
+  "id": "7790380020028",
+  "name": "Barrita Cereal Flow Frutos del Bosque Granola",
+  "description": "x20u",
+  "list1": 90,
+  "list2": 70,
+  "list3": 65.2,
+  "cost": 90,
+  "category": "SNACK",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ce"
+  },
+  "id": "Bandeja",
+  "name": "Bandeja MDF",
+  "description": "20X30cm",
+  "list1": 330,
+  "list2": 330,
+  "list3": 330,
+  "cost": 220,
+  "category": "VAR",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923cf"
+  },
+  "id": "7790430060349",
+  "name": "Bananita Dolca",
+  "description": "x15u",
+  "list1": 75,
+  "list2": 58.97,
+  "list3": 58.97,
+  "cost": 51.55,
+  "category": "CHOC",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d0"
+  },
+  "id": "7790036000619",
+  "name": "Baggio Multi x200ml",
+  "description": "x18u",
+  "list1": 100,
+  "list2": 76.86,
+  "list3": 73.9,
+  "cost": 67.19,
+  "category": "BEB",
+  "quantity": 19
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d1"
+  },
+  "id": "7790036000572",
+  "name": "Baggio Manzana x200ml",
+  "description": "x18u",
+  "list1": 100,
+  "list2": 76.86,
+  "list3": 73.9,
+  "cost": 59.99,
+  "category": "BEB",
+  "quantity": 18
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d2"
+  },
+  "id": "7790036000695",
+  "name": "Baggio Junior Multi",
+  "description": "x18u",
+  "list1": 70,
+  "list2": 52.26,
+  "list3": 50.25,
+  "cost": 45.69,
+  "category": "BEB",
+  "quantity": 54
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d3"
+  },
+  "id": "7790036000657",
+  "name": "Baggio Junior Durazno",
+  "description": "x18u",
+  "list1": 70,
+  "list2": 52.26,
+  "list3": 50.25,
+  "cost": 45.69,
+  "category": "BEB",
+  "quantity": 65
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d4"
+  },
+  "id": "7790036000589",
+  "name": "Baggio Durazno x200ml",
+  "description": "x18u",
+  "list1": 100,
+  "list2": 76.86,
+  "list3": 73.9,
+  "cost": 67.19,
+  "category": "BEB",
+  "quantity": 54
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d5"
+  },
+  "id": "7790828136076",
+  "name": "Azuquita Trompito",
+  "description": "x50u",
+  "list1": 270,
+  "list2": 270,
+  "list3": 270,
+  "cost": 237.5,
+  "category": "GOL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d6"
+  },
+  "id": "Azuquita",
+  "name": "Azuquita Manduvi",
+  "description": "x50u",
+  "list1": 176.75,
+  "list2": 176.75,
+  "list3": 176.75,
+  "cost": 142.88,
+  "category": "GOL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d7"
+  },
+  "id": "007794940000536",
+  "name": "Azucar Light Hileret",
+  "description": "x500gr",
+  "list1": 240,
+  "list2": 240,
+  "list3": 230.9,
+  "cost": 209.9,
+  "category": "COM",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d8"
+  },
+  "id": "7792540260145",
+  "name": "Azucar Ledesma",
+  "description": "x10u",
+  "list1": 250,
+  "list2": 250,
+  "list3": 250,
+  "cost": 199,
+  "category": "COM",
+  "quantity": 90
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923d9"
+  },
+  "id": "7798149380291",
+  "name": "Aritos de Cereal Multifrutal",
+  "description": "x130gr",
+  "list1": 151,
+  "list2": 116.5,
+  "list3": 111,
+  "cost": 97.09,
+  "category": "COM",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923da"
+  },
+  "id": "77977991",
+  "name": "Arcor Milk",
+  "description": "x20u",
+  "list1": 50,
+  "list2": 35,
+  "list3": 30.79,
+  "cost": 27.99,
+  "category": "CHOC",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923db"
+  },
+  "id": "7790895643194",
+  "name": "Aquarius Pomelo ",
+  "description": "x6u",
+  "list1": 145,
+  "list2": 112,
+  "list3": 101.6,
+  "cost": 92.35,
+  "category": "BEB",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923dc"
+  },
+  "id": "Alfeñique",
+  "name": "Alfeñique",
+  "description": "x20u",
+  "list1": 220,
+  "list2": 220,
+  "list3": 220,
+  "cost": 183.32,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923dd"
+  },
+  "id": "7798073620647",
+  "name": "Alfajor Tinchito Negro",
+  "description": "x60u",
+  "list1": 30,
+  "list2": 20.44,
+  "list3": 18.73,
+  "cost": 15.05,
+  "category": "CHOC",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923de"
+  },
+  "id": "7798073620043",
+  "name": "Alfajor Tinchito Blanco",
+  "description": "x60u",
+  "list1": 30,
+  "list2": 20.43,
+  "list3": 18.73,
+  "cost": 15.47,
+  "category": "CHOC",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923df"
+  },
+  "id": "77903860",
+  "name": "Alfajor Terrabusi",
+  "description": "x70gr",
+  "list1": 180,
+  "list2": 134.8,
+  "list3": 129.5,
+  "cost": 117.38,
+  "category": "GOL",
+  "quantity": 2
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e0"
+  },
+  "id": "7790040405608",
+  "name": "Alfajor Tatin Negro x3",
+  "description": "x21un",
+  "list1": 90,
+  "list2": 79.44,
+  "list3": 72.82,
+  "cost": 63.53,
+  "category": "GOL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e1"
+  },
+  "id": "7790040331204",
+  "name": "Alfajor Tatin Negro x2",
+  "description": "x56u",
+  "list1": 75.38,
+  "list2": 58.26,
+  "list3": 53.4,
+  "cost": 41.93,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e2"
+  },
+  "id": "7790040405301",
+  "name": "Alfajor Tatin Blanco x3",
+  "description": "x21u",
+  "list1": 90,
+  "list2": 79.44,
+  "list3": 72.82,
+  "cost": 63.53,
+  "category": "CHOC",
+  "quantity": 21
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e3"
+  },
+  "id": "7790040331303",
+  "name": "Alfajor Tatin Blanco x2",
+  "description": "x56u",
+  "list1": 75.38,
+  "list2": 58.26,
+  "list3": 53.4,
+  "cost": 41.93,
+  "category": "GOL",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e4"
+  },
+  "id": "7798073620272",
+  "name": "Alfajor Super Tincho Chocolate",
+  "description": "x40u",
+  "list1": 40,
+  "list2": 32,
+  "list3": 32,
+  "cost": 27.17,
+  "category": "GOL",
+  "quantity": 265
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e5"
+  },
+  "id": "7798073620289",
+  "name": "Alfajor Super Tincho Blanco",
+  "description": "x40u",
+  "list1": 40,
+  "list2": 32,
+  "list3": 32,
+  "cost": 27.17,
+  "category": "GOL",
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e6"
+  },
+  "id": "7798094220437",
+  "name": "Alfajor Smack",
+  "description": "x24u",
+  "list1": 60,
+  "list2": 45,
+  "list3": 45,
+  "cost": 37.51,
+  "category": "CHOC",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e7"
+  },
+  "id": "77915481",
+  "name": "Alfajor Pepito",
+  "description": "x57gr",
+  "list1": 180,
+  "list2": 140,
+  "list3": 135,
+  "cost": 122.8,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e8"
+  },
+  "id": "77976307",
+  "name": "Alfajor Oreo",
+  "description": "x56gr",
+  "list1": 170,
+  "list2": 133.8,
+  "list3": 129,
+  "cost": 117,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923e9"
+  },
+  "id": "7798094220956",
+  "name": "Alfajor Genio Negro",
+  "description": "x24u",
+  "list1": 60,
+  "list2": 48.31,
+  "list3": 46.45,
+  "cost": 42.23,
+  "category": "GOL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ea"
+  },
+  "id": "7798094220963",
+  "name": "Alfajor Genio Blanco",
+  "description": "x24u",
+  "list1": 60,
+  "list2": 48.31,
+  "list3": 46.45,
+  "cost": 38.3,
+  "category": "GOL",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923eb"
+  },
+  "id": "7790380024620",
+  "name": "Alfajor Full Mani",
+  "description": "x30u",
+  "list1": 70,
+  "list2": 49.8,
+  "list3": 49.8,
+  "cost": 21.29,
+  "category": "CHOC",
+  "quantity": 19
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ec"
+  },
+  "id": "77902320",
+  "name": "Alfajor Fulbito Mani",
+  "description": "x60u",
+  "list1": 30,
+  "list2": 24.62,
+  "list3": 23,
+  "cost": 20.52,
+  "category": "ALF",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ed"
+  },
+  "id": "77913586",
+  "name": "Alfajor Fulbito Chocolate",
+  "description": "x60u",
+  "list1": 30,
+  "list2": 24.62,
+  "list3": 23,
+  "cost": 21.29,
+  "category": "GOL",
+  "quantity": 3
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ee"
+  },
+  "id": "7791672002067",
+  "name": "Alfajor Fantoche Night",
+  "description": "x12u",
+  "list1": 90,
+  "list2": 72,
+  "list3": 69.39,
+  "cost": 61.19,
+  "category": "CHOC",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ef"
+  },
+  "id": "77991577",
+  "name": "Alfajor Fantoche Negro",
+  "description": "x85gr",
+  "list1": 120,
+  "list2": 93,
+  "list3": 88,
+  "cost": 79.14,
+  "category": "GOL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f0"
+  },
+  "id": "77991584",
+  "name": "Alfajor Fantoche Blanco",
+  "description": "x85gr",
+  "list1": 120,
+  "list2": 93,
+  "list3": 88,
+  "cost": 79.14,
+  "category": "GOL",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f1"
+  },
+  "id": "7793209903793",
+  "name": "Alfajor Crispy Tym",
+  "description": "x10u",
+  "list1": 40,
+  "list2": 40,
+  "list3": 40,
+  "cost": 36.3,
+  "category": "ALF",
+  "quantity": 10
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f2"
+  },
+  "id": "7790040659605",
+  "name": "Alfajor Cofler Block",
+  "description": "x60gr",
+  "list1": 180,
+  "list2": 143,
+  "list3": 131.08,
+  "cost": 118.92,
+  "category": "GOL",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f3"
+  },
+  "id": "7790040614000",
+  "name": "Alfajor Bon o bon",
+  "description": "x60gr",
+  "list1": 180,
+  "list2": 140,
+  "list3": 130.83,
+  "cost": 118.94,
+  "category": "GOL",
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f4"
+  },
+  "id": "Album ",
+  "name": "Album Mundial Boli",
+  "list1": 200,
+  "list2": 200,
+  "list3": 200,
+  "cost": 141.66,
+  "category": "VAR",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f5"
+  },
+  "id": "Agujas",
+  "name": "Agujas",
+  "list1": 150,
+  "list2": 150,
+  "list3": 150,
+  "cost": 20,
+  "category": "VAR",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f6"
+  },
+  "id": "7790036002163",
+  "name": "Agua Saborizada Mix Frutal",
+  "description": "xlitro y medio x6u",
+  "list1": 180,
+  "list2": 151,
+  "list3": 141.22,
+  "cost": 111.05,
+  "category": "BEB",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f7"
+  },
+  "id": "7790036974293",
+  "name": "Agua Saborizada Baggio Vida Pomelo",
+  "description": "x600 ml x6un bulto",
+  "list1": 150,
+  "list2": 115.9,
+  "list3": 106,
+  "cost": 96.58,
+  "category": "BEB",
+  "quantity": 48
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f8"
+  },
+  "id": "7790036974330",
+  "name": "Agua Saborizada Baggio Vida Pera",
+  "description": "x600ml  x6un bulto",
+  "list1": 150,
+  "list2": 115.9,
+  "list3": 106,
+  "cost": 96.58,
+  "category": "BEB",
+  "quantity": 0
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923f9"
+  },
+  "id": "7790036974286",
+  "name": "Agua Saborizada Baggio Vida Naranja",
+  "description": "x600ml",
+  "list1": 150,
+  "list2": 115.9,
+  "list3": 106,
+  "cost": 96.58,
+  "category": "BEB",
+  "quantity": 120
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923fa"
+  },
+  "id": "7790036974309",
+  "name": "Agua Saborizada Baggio Vida Mz",
+  "description": "x600ml x6un bulto",
+  "list1": 150,
+  "list2": 115.9,
+  "list3": 106,
+  "cost": 96.58,
+  "category": "BEB",
+  "quantity": 72
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923fb"
+  },
+  "id": "7790036002132",
+  "name": "Agua Saborizada Baggio Vida Mz",
+  "description": "xltr y medio x6un",
+  "list1": 180,
+  "list2": 151,
+  "list3": 141.22,
+  "cost": 110.19,
+  "category": "BEB",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923fc"
+  },
+  "id": "7790036974316",
+  "name": "Agua Saborizada Baggio Vida Mix",
+  "description": "x600ml x6un bulto",
+  "list1": 150,
+  "list2": 115.9,
+  "list3": 106,
+  "cost": 96.58,
+  "category": "BEB",
+  "quantity": 24
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923fd"
+  },
+  "id": "7790036974323",
+  "name": "Agua Saborizada Baggio Vida Limonada",
+  "description": "x600ml",
+  "list1": 150,
+  "list2": 115.9,
+  "list3": 106,
+  "cost": 96.58,
+  "category": "BEB",
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923fe"
+  },
+  "id": "7798139200035",
+  "name": "Agua PALAU x500ml",
+  "description": "x12un bulto",
+  "list1": 80,
+  "list2": 62.79,
+  "list3": 60.5,
+  "cost": 53.24,
+  "category": "BEB",
+  "quantity": 48
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f923ff"
+  },
+  "id": "7793755000212",
+  "name": "Agua Fuente del Milagro x600ml sin gas",
+  "description": "x12un bulto",
+  "list1": 100,
+  "list2": 72.6,
+  "list3": 58.8,
+  "cost": 48.29,
+  "category": "BEB",
+  "quantity": 9
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92400"
+  },
+  "id": "7797470005514",
+  "name": "Aceite Marolio",
+  "description": "x900ml",
+  "list1": 398,
+  "list2": 398,
+  "list3": 398,
+  "cost": 349.9,
+  "category": "COM",
+  "quantity": 5
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92401"
+  },
+  "id": "7790580118785",
+  "name": " Caramelo Butter Toffees Chocolate",
+  "description": "x137u",
+  "list1": 991.85,
+  "list2": 990,
+  "list3": 952,
+  "cost": 866.02,
+  "category": "GOL",
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "638d3cd37a2035fc42f92402"
+  },
+  "id": "7790580134259",
+  "name": " Caramelo Arcor Menta Cristal",
+  "description": "x140gr",
+  "list1": 186,
+  "list2": 186,
+  "list3": 186,
+  "cost": 154.8,
+  "category": "GOL",
+  "quantity": 6
+},{
+  "_id": {
+    "$oid": "638d61caf6b97816f15c9054"
+  }
+},{
+  "_id": {
+    "$oid": "638d63f9116742a8fbac1555"
+  }
+},{
+  "_id": {
+    "$oid": "638d64c48fa53e38a28c0277"
+  }
+},{
+  "_id": {
+    "$oid": "638d6c487ac5728acb35d170"
+  }
+},{
+  "_id": {
+    "$oid": "638d6da87ac5728acb35d172"
+  }
+},{
+  "_id": {
+    "$oid": "638d6dc57ac5728acb35d174"
+  }
+},{
+  "_id": {
+    "$oid": "638d6e117ac5728acb35d176"
+  }
+},{
+  "_id": {
+    "$oid": "638d71137ac5728acb35d179"
+  }
+},{
+  "_id": {
+    "$oid": "638d71957ac5728acb35d17b"
+  }
+},{
+  "_id": {
+    "$oid": "638d71cb7ac5728acb35d17d"
+  }
+},{
+  "_id": {
+    "$oid": "638d72357ac5728acb35d17f"
+  }
+},{
+  "_id": {
+    "$oid": "638d72777ac5728acb35d181"
+  }
+},{
+  "_id": {
+    "$oid": "638e72819bfd42a2c41d82e7"
+  },
+  "id": "123",
+  "name": "borrarlo x dios",
+  "description": "ultima chance",
+  "list1": 300,
+  "list2": 500,
+  "list3": 6000,
+  "cost": 200,
+  "category": "CHOC",
+  "quantity": 40
+},{
+  "_id": {
+    "$oid": "638e72ba9bfd42a2c41d82e9"
+  },
+  "id": "55555",
+  "name": "borrar 4",
+  "description": "asd",
+  "list1": 2,
+  "list2": 3,
+  "list3": 6,
+  "cost": 1,
+  "category": "CHOC",
+  "quantity": 8
+}]
