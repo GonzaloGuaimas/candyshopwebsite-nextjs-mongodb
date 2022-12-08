@@ -23,8 +23,10 @@ export default function Home() {
         </Link>
       </div>
       <div className='main-btn-container'>
-          <IoLocationSharp  size={'2em'} color={'white'}/>
-          <p>Visitanos en 9 de Julio 310, Campo Quijano</p>
+          <a href="https://goo.gl/maps/BAApxbd1WneaYZv38">
+            <IoLocationSharp  size={'2em'} color={'#000b76'}/>
+            <p>Visitanos en 9 de Julio 310, Campo Quijano</p>
+          </a>
       </div>
     </div>
   )
