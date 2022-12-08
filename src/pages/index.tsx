@@ -15,7 +15,7 @@ export default function Home() {
       <div>
         <Link href={'/catalog'}>
           <div className='image-container'>
-            <Image src={logo} alt={''} layout="fill" className={'image'}/>
+            <Image src={logo} alt={''} fill={true} className={'image'}/>
           </div>
           <div className='main-btn-container'>
             <h4>Toca la imagen para ver el catálogo</h4>
