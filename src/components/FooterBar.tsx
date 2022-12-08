@@ -5,11 +5,11 @@ export const FooterBar = () => {
   return (
     <div className='footer-container'>
       <div>
-          <IoLocationSharp  size={'2em'} color={'white'}/>
+          <IoLocationSharp  size={'2em'} color={'#000b76'}/>
           <p>9 de Julio 310</p>
       </div>
       <div>
-          <IoLogoWhatsapp  size={'2em'} color={'white'}/>
+          <IoLogoWhatsapp  size={'2em'} color={'#000b76'}/>
           <p>+54 387 4646 037</p>
       </div>
     </div>
