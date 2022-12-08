@@ -69,7 +69,7 @@ a{
 }
 
 .main-container-catalog{
-  height: 99.4%;
+  height: 90vh;
   display: flex;
   justify-content: space-between;
   flex-direction: column;

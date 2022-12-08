@@ -57,9 +57,9 @@ export const TableProducts = ({ products }: {products: any}) => {
   )
   return (
     <div>
-        <div className="card" style={{ height: 'calc(100vh - 145px)' }}>
+        <div className="card" style={{ height: 'calc(90vh - 145px)' }}>
             <DataTable value={products} scrollable scrollHeight="flex" size='small'
-            paginator rows={8} header={header} filters={filters}
+            paginator rows={12} header={header} filters={filters}
             paginatorTemplate="PrevPageLink PageLinks NextPageLink CurrentPageReport RowsPerPageDropdown"
             currentPageReportTemplate="Mostrando {first} a {last} de {totalRecords} productos">
                 <Column field="name" header="Nombre"></Column>
