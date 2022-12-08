@@ -1,6 +1,6 @@
 import React from 'react'
 import Product, { IProduct } from '../models/Product'
-import dbConnect from '../utils/dbConnect'
+import dbConnect from '../lib/dbConnect'
 import { useEffect, useState } from 'react'
 import { TableProducts } from '../components/catalog/TableProducts'
 import { NavBar } from '../components/NavBar'
