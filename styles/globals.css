@@ -6,20 +6,19 @@ body {
   background-image: url('../src/assets/img/wave.svg');
   background-repeat: no-repeat;
   background-position: bottom;
-  /* background-color: #251F61; */
-  /* background-image: linear-gradient(to top, #251F61 1%, #ffff 80%); */
-  /* background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%); */
-  /* background: linear-gradient(0deg, rgba(0,74,173,1) 0%, rgb(13, 99, 228) 0%, rgba(255,255,255,1) 28%, rgba(244,246,249,1) 65%); */
 }
 #__next{
   min-height: 99.4% !important;
 }
 
+a{
+  color: black;
+}
 
 /*------------------------------------*/
 
 .main-container{
-  height: 99.4%;
+  height: 90vh;
   display: flex;
   justify-content: space-around;
   flex-direction: column;
@@ -95,7 +94,7 @@ body {
   text-align: center;
 }
 .main-btn-container p{
-  color: white;
+  color: rgb(0, 0, 0);
   font-weight: bold;
 }
 
