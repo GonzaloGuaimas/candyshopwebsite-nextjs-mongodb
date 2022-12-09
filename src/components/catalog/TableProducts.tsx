@@ -5,23 +5,45 @@ import { InputText } from 'primereact/inputtext'
 import { Dropdown } from 'primereact/dropdown'
 import { Button } from 'primereact/button'
 import { FilterMatchMode } from 'primereact/api'
+import { IProduct } from '../../models/Product'
 
-export const TableProducts = ({ products }: {products: any}) => {
-  const [globalFilter, setGlobalFilter] = useState('')
-  const [globalFilterDrop, setGlobalFilterDrop] = useState('')
-  const categories = [{name: 'ALFAJORES', value:'ALF'}, {name: 'BEBIDAS', value:'BEB'}, {name: 'COMESTIBLES', value:'COM'}, {name: 'CHOCOLATES', value:'CHOC'},
-  {name: 'GOLOSINAS', value:'GOL'}, {name: 'GALLETAS', value:'GALL'}, {name: 'SNACK', value:'SNACK'}, {name: 'VARIOS', value:'VAR'}]
-  const [filters, setFilters] = useState<any>()
+type TableProductsProps = {products: IProduct[]}
+
+type Filter= {
+  name: { value: string | null, matchMode: FilterMatchMode }
+  description: { value: string | null, matchMode: FilterMatchMode }
+  category: { value: string | null, matchMode: FilterMatchMode }
+}
+
+const categories = [{name: 'ALFAJORES', value:'ALF'}, {name: 'BEBIDAS', value:'BEB'}, {name: 'COMESTIBLES', value:'COM'}, {name: 'CHOCOLATES', value:'CHOC'}, {name: 'GOLOSINAS', value:'GOL'}, {name: 'GALLETAS', value:'GALL'}, {name: 'SNACK', value:'SNACK'}, {name: 'VARIOS', value:'VAR'}]
+
+const defaultFilter = {
+  'name': { value: null, matchMode: FilterMatchMode.CONTAINS },
+  'description': { value: null, matchMode: FilterMatchMode.CONTAINS },
+  'category': { value: null, matchMode: FilterMatchMode.CONTAINS }
+}
+
+export const TableProducts = ({ products }: TableProductsProps) => {
+  const [globalFilter, setGlobalFilter] = useState<string>('')
+  const [globalFilterDrop, setGlobalFilterDrop] = useState<string>('')
+  const [filters, setFilters] = useState<Filter>(defaultFilter)
   const clearFilters = () => {
-    initFilters()
+    setFilters(defaultFilter)
+    setGlobalFilter('')
+    setGlobalFilterDrop('')
   }
 
   const onGlobalFilterChange = (e: any) => {
       const value = e.target.value
-      let _filters = { ...filters }
-      _filters['name'].value = value
-
-      setFilters(_filters)
+      setFilters(prev => {
+        return {
+          ...prev,
+          name: {
+            ...prev.name,
+            value: value
+          }
+        }
+      })
       setGlobalFilter(value)
   }
   const onDropFilterChange = (e: any) => {
@@ -29,22 +51,17 @@ export const TableProducts = ({ products }: {products: any}) => {
     let _filters = { ...filters }
     _filters['category'].value = value
 
-    setFilters(_filters)
+    setFilters(prev => {
+      return {
+        ...prev,
+        category: {
+          ...prev.category,
+          value: value
+        }
+      }
+    })
     setGlobalFilterDrop(value)
 }
-  useEffect(() => {
-    initFilters()
-  },[])
-  const initFilters = () => {
-    setFilters({
-      'name': { value: null, matchMode: FilterMatchMode.CONTAINS },
-      'description': { value: null, matchMode: FilterMatchMode.CONTAINS },
-      'category': { value: null, matchMode: FilterMatchMode.CONTAINS }
-  })
-    setGlobalFilter('')
-    setGlobalFilterDrop('')
-}
-
   const header = (
     <div className="table-header">
         <span className="p-input-icon-left">
@@ -52,7 +69,7 @@ export const TableProducts = ({ products }: {products: any}) => {
             <InputText type="search" value={globalFilter} onChange={onGlobalFilterChange} placeholder="Buscar producto" />
         </span>
         <Dropdown optionLabel='name' optionValue='value' value={globalFilterDrop} options={categories} onChange={onDropFilterChange} placeholder="Categoría"/>
-        <Button icon="pi pi-times" className="p-button-rounded p-button-danger p-button-text" aria-label="Cancel" onClick={() => clearFilters()}/>
+        <Button icon="pi pi-times" className="p-button-rounded p-button-danger p-button-text" aria-label="Cancel" onClick={clearFilters}/>
     </div>
   )
   return (

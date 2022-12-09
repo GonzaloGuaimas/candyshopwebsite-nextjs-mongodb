@@ -1,4 +1,4 @@
-import dbConnect from '../../../utils/dbConnect'
+import dbConnect from '../../../lib/dbConnect'
 import Product from '../../../models/Product'
 
 export default async function (req: any, res: any) {
