@@ -3,9 +3,10 @@ body {
   font-size: 3vw !important;
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   height: 99.4%;
-  background-image: url('../src/assets/img/wave.svg');
+  /* background-image: url('../src/assets/img/wave.svg'); */
   background-repeat: no-repeat;
   background-position: bottom;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='500' height='200' preserveAspectRatio='none' viewBox='0 0 500 200'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1203%26quot%3b)' fill='none'%3e%3crect width='500' height='200' x='0' y='0' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/rect%3e%3cpath d='M 0%2c55 C 50%2c68.2 150%2c112.8 250%2c121 C 350%2c129.2 450%2c101 500%2c96L500 200L0 200z' fill='rgba(0%2c 11%2c 118%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1203'%3e%3crect width='500' height='200' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
 }
 #__next{
   min-height: 99.4% !important;
@@ -82,6 +83,7 @@ a{
 }
 .footer-container p{
   font-weight: bold;
+  color: white;
 }
 .footer-container div {
   display: grid;
