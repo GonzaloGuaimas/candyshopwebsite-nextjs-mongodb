@@ -77,13 +77,13 @@ export const TableProducts = ({ products }: TableProductsProps) => {
     <div>
         <div className="card" style={{ height: 'calc(90vh - 145px)' }}>
             <DataTable value={products} scrollable scrollHeight="flex" size='small'
-            paginator rows={12} header={header} filters={filters}
+            paginator rows={12} header={header} filters={filters} 
             paginatorTemplate="PrevPageLink PageLinks NextPageLink CurrentPageReport RowsPerPageDropdown"
             currentPageReportTemplate="Mostrando {first} a {last} de {totalRecords} productos">
-                <Column field="name" header="Nombre"></Column>
-                <Column field="description" header="Descripción"></Column>
-                <Column field="list3" header="Precio" body={(rowData) => {return formatCurrency(rowData.list3)}}></Column>
-                <Column field="category" header="Categoria"></Column>
+                <Column field="name" style={{minWidth:'50%'}} header="Nombre"></Column>
+                <Column field="description" style={{minWidth:'30%'}} header="Descripción"></Column>
+                <Column field="list3" style={{minWidth:'20%'}} header="Precio" body={(rowData) => {return formatCurrency(rowData.list3)}}></Column>
+                <Column field="category" style={{minWidth:'10%'}} header="Categoria"></Column>
             </DataTable>
         </div>
     </div>
