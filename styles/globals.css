@@ -104,3 +104,13 @@ a{
   align-items: center;
   justify-content: space-between;
 }
+
+.p-datatable-tbody tr{
+  border-bottom: solid;
+  border-bottom-width: thin;
+}
+
+.p-datatable-thead span{
+  font-weight: bold;
+  color: #000b76;
+}
