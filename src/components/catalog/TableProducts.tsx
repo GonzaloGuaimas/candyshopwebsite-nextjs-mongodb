@@ -6,6 +6,7 @@ import { Dropdown } from 'primereact/dropdown'
 import { Button } from 'primereact/button'
 import { FilterMatchMode } from 'primereact/api'
 import { IProduct } from '../../models/Product'
+import { formatCurrency } from '../../services/formatCurrency'
 
 type TableProductsProps = {products: IProduct[]}
 
@@ -81,7 +82,7 @@ export const TableProducts = ({ products }: TableProductsProps) => {
             currentPageReportTemplate="Mostrando {first} a {last} de {totalRecords} productos">
                 <Column field="name" header="Nombre"></Column>
                 <Column field="description" header="Descripción"></Column>
-                <Column field="list3" header="Precio"></Column>
+                <Column field="list3" header="Precio" body={(rowData) => {return formatCurrency(rowData.list3)}}></Column>
                 <Column field="category" header="Categoria"></Column>
             </DataTable>
         </div>
