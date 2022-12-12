@@ -36,6 +36,7 @@ export const TableProducts = ({ products }: TableProductsProps) => {
 
   const onGlobalFilterChange = (e: any) => {
       const value = e.target.value
+      
       setFilters(prev => {
         return {
           ...prev,
@@ -49,8 +50,6 @@ export const TableProducts = ({ products }: TableProductsProps) => {
   }
   const onDropFilterChange = (e: any) => {
     const value = e.target.value
-    let _filters = { ...filters }
-    _filters['category'].value = value
 
     setFilters(prev => {
       return {
