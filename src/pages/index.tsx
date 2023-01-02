@@ -3,6 +3,7 @@ import Image from 'next/image'
 import logo from '../assets/img/logo.png'
 import Link from 'next/link'
 import { IoLocationSharp  } from 'react-icons/io5'
+import { getProducts } from '../services/getProducts'
 export default function Home() {
  
   return (
@@ -23,6 +24,8 @@ export default function Home() {
         </Link>
       </div>
       <div className='main-btn-container'>
+      <button onClick={() => getProducts()}>asdsa</button>
+
           <a href="https://goo.gl/maps/BAApxbd1WneaYZv38">
             <IoLocationSharp  size={'2em'} color={'#000b76'}/>
             <p>Visitanos en 9 de Julio 310, Campo Quijano</p>
